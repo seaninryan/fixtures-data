@@ -51,7 +51,13 @@ jobs:
           ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
           ALERT_FROM_EMAIL: ${{ secrets.ALERT_FROM_EMAIL }}
 
+      # !cancelled(), not success(): if the email step above fails the snapshot has
+      # ALREADY been written, and refusing to commit it would leave the run with nothing
+      # to show and the next run rediscovering - and re-emailing - the same changes. A
+      # failed fetch writes nothing, so this still commits nothing there. The job stays
+      # red either way, which is the part that must not be softened.
       - name: Commit snapshot
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "fixtures-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
