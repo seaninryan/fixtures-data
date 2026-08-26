@@ -10,29 +10,26 @@ jobs:
           UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
           AJAX='https://galwayfa.ie/wp-admin/admin-ajax.php?action=fixtures&club_id=2960&competition_id=&team_id=&displayResults='
           PAGE='https://galwayfa.ie/clubprofile/2960/'
-          probe () {
-            echo "===== $1"
-            shift
-            code=$(curl -s -o /tmp/body -D /tmp/hdr -w '%{http_code}' "$@")
-            echo "status: $code  bytes: $(wc -c < /tmp/body)"
-            grep -iE '^(server|x-cache|x-amz-cf-id|via|cf-|x-powered-by|content-type)' /tmp/hdr | head -8
-            head -c 300 /tmp/body | tr -d '\r'; echo; echo
-          }
           echo "runner egress IP: $(curl -s https://api.ipify.org)"
-          probe "A public club PAGE, browser UA" -H "User-Agent: $UA" "$PAGE"
-          probe "B ajax, POST, exactly what fetchFixtures sends" -X POST \
-            -H "User-Agent: $UA" -H "Referer: $PAGE" -H 'X-Requested-With: XMLHttpRequest' -H 'Accept: */*' "$AJAX"
-          probe "C ajax, POST, no headers at all" -X POST "$AJAX"
-          probe "D ajax, GET, browser UA + referer" \
-            -H "User-Agent: $UA" -H "Referer: $PAGE" "$AJAX"
-          probe "E ajax, POST, fuller browser header set" -X POST \
-            -H "User-Agent: $UA" -H "Referer: $PAGE" -H 'X-Requested-With: XMLHttpRequest' \
-            -H 'Accept: */*' -H 'Accept-Language: en-IE,en;q=0.9' -H 'Accept-Encoding: gzip, deflate, br' \
-            -H 'Origin: https://galwayfa.ie' -H 'sec-ch-ua: "Chromium";v="128", "Not(A:Brand";v="24"' \
-            -H 'sec-ch-ua-mobile: ?0' -H 'sec-ch-ua-platform: "Linux"' \
-            -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-origin' \
-            --compressed "$AJAX"
-          probe "F ajax, POST, after a cookie-setting GET of the club page" -X POST \
-            -b /tmp/jar -c /tmp/jar -H "User-Agent: $UA" -H "Referer: $PAGE" \
-            -H 'X-Requested-With: XMLHttpRequest' -H 'Accept: */*' "$AJAX"
-          echo "(F used the jar from:)"; curl -s -o /dev/null -c /tmp/jar -H "User-Agent: $UA" "$PAGE"; cat /tmp/jar 2>/dev/null | head -5
+
+          echo "===== 1. THE FULL 403 BODY (geo-block and rule-block say different things)"
+          curl -s -X POST -H "User-Agent: $UA" -H "Referer: $PAGE" "$AJAX" | sed -e 's/<[^>]*>//g' | tr -s '\n ' '\n ' | head -20
+
+          echo "===== 2. Does the club PAGE (200 from here) carry the fixture markup?"
+          curl -s -H "User-Agent: $UA" "$PAGE" -o /tmp/page
+          echo "page bytes: $(wc -c < /tmp/page)"
+          for needle in 'data-fid' 'data-date' 'fixture' 'team_id' 'admin-ajax'; do
+            printf '  %-12s %s\n' "$needle" "$(grep -o "$needle" /tmp/page | wc -l)"
+          done
+
+          echo "===== 3. Other wp-admin paths, and wp-json, from here"
+          for u in \
+            'https://galwayfa.ie/wp-admin/admin-ajax.php?action=heartbeat' \
+            'https://galwayfa.ie/wp-json/' \
+            'https://galwayfa.ie/robots.txt' ; do
+            printf '  %-70s %s\n' "$u" "$(curl -s -o /dev/null -w '%{http_code}' -H "User-Agent: $UA" "$u")"
+          done
+
+          echo "===== 4. Is it the PATH or the QUERY? (same path, no query)"
+          printf '  bare admin-ajax POST:      %s\n' "$(curl -s -o /dev/null -w '%{http_code}' -X POST -H "User-Agent: $UA" 'https://galwayfa.ie/wp-admin/admin-ajax.php')"
+          printf '  action as POST body:       %s\n' "$(curl -s -o /dev/null -w '%{http_code}' -X POST -H "User-Agent: $UA" -H "Referer: $PAGE" --data 'action=fixtures&club_id=2960&competition_id=&team_id=&displayResults=' 'https://galwayfa.ie/wp-admin/admin-ajax.php')"
