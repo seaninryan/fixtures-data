@@ -1,0 +1,61 @@
+name: check
+
+on:
+  # GitHub cron is UTC-only, so this is 07:00 IST in summer and 06:00 GMT in winter.
+  # Fixtures move days ahead, not hours, so the drift does not matter.
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+# The snapshot commit lands in THIS repo, which is the whole reason the cron lives here
+# rather than beside the code: a workflow's GITHUB_TOKEN writes to its own repo, so this
+# needs no long-lived PAT to expire and silently break the cron.
+permissions:
+  contents: write
+
+concurrency:
+  group: check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # The code. Public, so no token needed. scripts/check.mjs lives THERE and this
+      # workflow lives HERE - if its env contract changes, this file changes with it.
+      - uses: actions/checkout@v4
+        with:
+          repository: seaninryan/fixtures
+          path: app
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+
+      - run: npm ci
+        working-directory: app
+
+      # A failed fetch exits non-zero here, so nothing below runs and nothing is
+      # committed. That is the intended behaviour: a blocked request must never be
+      # recorded as "no fixtures". Same for a fixture count that has collapsed.
+      - name: Check fixtures
+        working-directory: app
+        run: node scripts/check.mjs
+        env:
+          DATA_DIR: ${{ github.workspace }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
+          ALERT_FROM_EMAIL: ${{ secrets.ALERT_FROM_EMAIL }}
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "fixtures-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add latest.json teams.json changes.json
+          git diff --staged --quiet && echo "no snapshot change" && exit 0
+          git commit -m "chore: fixtures snapshot $(date -u +%F)"
+          git push
