@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-26T09:32:05.364Z",
+  "fetchedAt": "2026-08-26T11:04:33.332Z",
   "fixtures": [
     {
       "fid": "6951014",
       "teamId": "235380",
       "date": "2026-08-29",
-      "time": "10:30",
+      "time": "12:00",
       "isHome": true,
       "ourTeam": "Craughwell United",
       "opponent": "St Bernards",
