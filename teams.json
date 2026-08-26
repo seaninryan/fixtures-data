@@ -2,7 +2,7 @@
   "version": 1,
   "teams": {
     "234323": {
-      "label": null,
+      "label": "U21 Men",
       "color": "#e5484d"
     },
     "235299": {
@@ -19,7 +19,7 @@
     },
     "235435": {
       "label": "U13 Boys",
-      "color": "#a3c93f"
+      "color": "#080080"
     },
     "235461": {
       "label": "U12A Boys",
@@ -39,15 +39,15 @@
     },
     "238174": {
       "label": "U12A Girls",
-      "color": "#1f6feb"
+      "color": "#b5eb1e"
     },
     "238188": {
       "label": "U12B Girls",
-      "color": "#5a5ae5"
+      "color": "#5900b3"
     },
     "254053": {
       "label": "U15A Boys",
-      "color": "#8b5ae5"
+      "color": "#f60938"
     },
     "254061": {
       "label": "U14B Boys",
@@ -55,7 +55,7 @@
     },
     "283766": {
       "label": "U15 Girls",
-      "color": "#d94da3"
+      "color": "#4ed0da"
     },
     "284049": {
       "label": "U13 Girls",
@@ -63,19 +63,19 @@
     },
     "300398": {
       "label": "U17 Boys",
-      "color": "#7d8a99"
+      "color": "#429aff"
     },
     "379931": {
-      "label": null,
-      "color": "#a32d31"
+      "label": "Championship Women",
+      "color": "#ff00bb"
     },
     "380133": {
       "label": "U15B Boys",
-      "color": "#b06a1f"
+      "color": "#2b00ff"
     },
     "380288": {
       "label": "U12B Boys",
-      "color": "#7a8f1f"
+      "color": "#d0ff00"
     }
   }
 }
