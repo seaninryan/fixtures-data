@@ -1,36 +1,5 @@
 [
   {
-    "checkedAt": "2026-08-26T11:04:33.332Z",
-    "changes": [
-      {
-        "type": "moved",
-        "fid": "6951014",
-        "teamId": "235380",
-        "fixture": {
-          "fid": "6951014",
-          "teamId": "235380",
-          "date": "2026-08-29",
-          "time": "12:00",
-          "isHome": true,
-          "ourTeam": "Craughwell United",
-          "opponent": "St Bernards",
-          "venue": "Craughwell",
-          "competition": "GFA Boys U14 Championship 1",
-          "comment": ""
-        },
-        "comment": "",
-        "from": {
-          "date": "2026-08-29",
-          "time": "10:30"
-        },
-        "to": {
-          "date": "2026-08-29",
-          "time": "12:00"
-        }
-      }
-    ]
-  },
-  {
     "checkedAt": "2026-08-26T09:10:50.315Z",
     "changes": [
       {
