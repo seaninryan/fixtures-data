@@ -1,10 +1,15 @@
 name: check
 
 on:
-  # GitHub cron is UTC-only, so this is 07:00 IST in summer and 06:00 GMT in winter.
+  # GitHub cron is UTC-only, so this is 07:17 IST in summer and 06:17 GMT in winter.
   # Fixtures move days ahead, not hours, so the drift does not matter.
+  #
+  # :17 and not :00 on purpose. GitHub runs scheduled workflows on a best-effort queue
+  # and drops them under load; the top of the hour is far and away the most contended
+  # minute. A dropped run is the one failure this repo cannot see - it looks exactly
+  # like a quiet day with no fixture changes.
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "17 6 * * *"
   workflow_dispatch:
 
 # The snapshot commit lands in THIS repo, which is the whole reason the cron lives here
