@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-27T14:55:28.880Z",
+  "fetchedAt": "2026-08-28T10:33:18.960Z",
   "fixtures": [
     {
       "fid": "6951014",
@@ -36,18 +36,6 @@
       "opponent": "Colga B",
       "venue": "Clarinbridge",
       "competition": "GFA Girls U14 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6959215",
-      "teamId": "238142",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "St Bernards",
-      "venue": "Craughwell",
-      "competition": "GFA U16 Girls Division 1",
       "comment": ""
     },
     {
@@ -171,18 +159,6 @@
       "comment": ""
     },
     {
-      "fid": "6955968",
-      "teamId": "238128",
-      "date": "2026-09-06",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village",
-      "competition": "GFA Girls U18 Championship",
-      "comment": ""
-    },
-    {
       "fid": "6957188",
       "teamId": "283766",
       "date": "2026-09-06",
@@ -193,6 +169,18 @@
       "venue": "Letterfrack",
       "competition": "GFA Girls U15 Division 1",
       "comment": "Home KO SUN 2PM"
+    },
+    {
+      "fid": "6955968",
+      "teamId": "238128",
+      "date": "2026-09-06",
+      "time": "15:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "venue": "New Village",
+      "competition": "GFA Girls U18 Championship",
+      "comment": "Moved from 2pm as agreed (27/8)"
     },
     {
       "fid": "6964432",
@@ -325,18 +313,6 @@
       "venue": "Craughwell",
       "competition": "GFA Boys U18 Division 1",
       "comment": ""
-    },
-    {
-      "fid": "6959218",
-      "teamId": "238142",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Knocknacarra B",
-      "venue": "Cappagh Park",
-      "competition": "GFA U16 Girls Division 1",
-      "comment": "Home KO SUN 4PM"
     },
     {
       "fid": "6950507",
@@ -492,18 +468,6 @@
       "opponent": "Kiltullagh",
       "venue": "Craughwell",
       "competition": "GFA Women's Championship",
-      "comment": ""
-    },
-    {
-      "fid": "6959222",
-      "teamId": "238142",
-      "date": "2026-09-27",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA U16 Girls Division 1",
       "comment": ""
     },
     {

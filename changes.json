@@ -1,5 +1,90 @@
 [
   {
+    "checkedAt": "2026-08-28T10:33:18.960Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6959215",
+        "teamId": "238142",
+        "fixture": {
+          "fid": "6959215",
+          "teamId": "238142",
+          "date": "2026-08-30",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "St Bernards",
+          "venue": "Craughwell",
+          "competition": "GFA U16 Girls Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "cancelled",
+        "fid": "6959218",
+        "teamId": "238142",
+        "fixture": {
+          "fid": "6959218",
+          "teamId": "238142",
+          "date": "2026-09-13",
+          "time": "16:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Cappagh Park",
+          "competition": "GFA U16 Girls Division 1",
+          "comment": "Home KO SUN 4PM"
+        },
+        "comment": "Home KO SUN 4PM"
+      },
+      {
+        "type": "cancelled",
+        "fid": "6959222",
+        "teamId": "238142",
+        "fixture": {
+          "fid": "6959222",
+          "teamId": "238142",
+          "date": "2026-09-27",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA U16 Girls Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "moved",
+        "fid": "6955968",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955968",
+          "teamId": "238128",
+          "date": "2026-09-06",
+          "time": "15:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Girls U18 Championship",
+          "comment": "Moved from 2pm as agreed (27/8)"
+        },
+        "comment": "Moved from 2pm as agreed (27/8)",
+        "from": {
+          "date": "2026-09-06",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-09-06",
+          "time": "15:00"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-08-26T09:10:50.315Z",
     "changes": [
       {
