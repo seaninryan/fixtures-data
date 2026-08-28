@@ -8,6 +8,14 @@ on:
   # and drops them under load; the top of the hour is far and away the most contended
   # minute. A dropped run is the one failure this repo cannot see - it looks exactly
   # like a quiet day with no fixture changes.
+  #
+  # This file was check.yml until 2026-08-28. It was renamed to force GitHub to create
+  # a fresh workflow object: under BOTH "0 6 * * *" and "17 6 * * *" the schedule never
+  # fired once, while workflow_dispatch worked every time. Repo config was ruled out
+  # (not a fork, public, default branch, Actions enabled, workflow active, cron live on
+  # HEAD) and the account runs schedules fine elsewhere, so the schedule had simply never
+  # registered - the old workflow's updated_at never moved even when the file changed.
+  # A new path means a new workflow id and a fresh registration. Do not rename back.
   schedule:
     - cron: "17 6 * * *"
   workflow_dispatch:
