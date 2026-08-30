@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-29T12:39:54.143Z",
+  "fetchedAt": "2026-08-30T08:48:28.707Z",
   "fixtures": [
-    {
-      "fid": "6951014",
-      "teamId": "235380",
-      "date": "2026-08-29",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "St Bernards",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U14 Championship 1",
-      "comment": ""
-    },
-    {
-      "fid": "6951300",
-      "teamId": "254061",
-      "date": "2026-08-29",
-      "time": "12:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Cregmore/Claregalway C",
-      "venue": "Cregmore",
-      "competition": "GFA Boys U14 Division 4",
-      "comment": ""
-    },
     {
       "fid": "6957809",
       "teamId": "238155",
@@ -423,6 +399,30 @@
       "comment": ""
     },
     {
+      "fid": "6951025",
+      "teamId": "235380",
+      "date": "2026-09-26",
+      "time": "12:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Bearna Na Forbacha",
+      "venue": "Furbo",
+      "competition": "GFA Boys U14 Championship 1",
+      "comment": ""
+    },
+    {
+      "fid": "6951310",
+      "teamId": "254061",
+      "date": "2026-09-26",
+      "time": "12:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "St Bernards B",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U14 Division 4",
+      "comment": ""
+    },
+    {
       "fid": "6958965",
       "teamId": "238174",
       "date": "2026-09-27",
@@ -447,6 +447,18 @@
       "comment": ""
     },
     {
+      "fid": "6952183",
+      "teamId": "235325",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Kinvara Utd",
+      "venue": "Kinvara",
+      "competition": "GFA U16 Boys Division 1",
+      "comment": ""
+    },
+    {
       "fid": "6957818",
       "teamId": "238155",
       "date": "2026-09-27",
@@ -468,6 +480,18 @@
       "opponent": "Kiltullagh",
       "venue": "Craughwell",
       "competition": "GFA Women's Championship",
+      "comment": ""
+    },
+    {
+      "fid": "6957604",
+      "teamId": "235299",
+      "date": "2026-09-27",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Maree/Oranmore B",
+      "venue": "Oranmore",
+      "competition": "GFA Boys U18 Division 1",
       "comment": ""
     },
     {

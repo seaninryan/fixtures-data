@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-30T08:48:28.707Z",
+  "results": [
+    {
+      "fid": "6951014",
+      "teamId": "235380",
+      "date": "2026-08-29",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "St Bernards",
+      "ourScore": 1,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U14 Championship 1"
+    },
+    {
+      "fid": "6951300",
+      "teamId": "254061",
+      "date": "2026-08-29",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Cregmore/Claregalway C",
+      "ourScore": 3,
+      "theirScore": 4,
+      "venue": "Cregmore",
+      "competition": "GFA Boys U14 Division 4"
+    }
+  ]
+}
