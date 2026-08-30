@@ -74,7 +74,7 @@ jobs:
         run: |
           git config user.name "fixtures-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add latest.json teams.json changes.json
+          git add latest.json teams.json changes.json results.json
           git diff --staged --quiet && echo "no snapshot change" && exit 0
           git commit -m "chore: fixtures snapshot $(date -u +%F)"
           git push
