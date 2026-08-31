@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T11:52:08.175Z",
+  "updatedAt": "2026-08-31T13:43:58.391Z",
   "results": [
     {
       "fid": "6951014",
@@ -25,6 +25,18 @@
       "theirScore": 4,
       "venue": "Cregmore",
       "competition": "GFA Boys U14 Division 4"
+    },
+    {
+      "fid": "6957809",
+      "teamId": "238155",
+      "date": "2026-08-30",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colga B",
+      "ourScore": 0,
+      "theirScore": 2,
+      "venue": "Clarinbridge",
+      "competition": "GFA Girls U14 Division 2"
     }
   ]
 }

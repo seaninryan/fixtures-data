@@ -1,5 +1,88 @@
 [
   {
+    "checkedAt": "2026-08-31T13:43:58.391Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6951736",
+        "teamId": "254053",
+        "fixture": {
+          "fid": "6951736",
+          "teamId": "254053",
+          "date": "2026-09-05",
+          "time": "11:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Moyne Villa B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U15 Division 2",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-09-05",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-09-05",
+          "time": "11:00"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6972287",
+        "teamId": "380133",
+        "fixture": {
+          "fid": "6972287",
+          "teamId": "380133",
+          "date": "2026-09-05",
+          "time": "13:15",
+          "isHome": true,
+          "ourTeam": "Craughwell United B",
+          "opponent": "MacDara B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U15 Division 4",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-09-05",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-09-05",
+          "time": "13:15"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6964432",
+        "teamId": "234323",
+        "fixture": {
+          "fid": "6964432",
+          "teamId": "234323",
+          "date": "2026-09-07",
+          "time": "19:45",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA U21 Division 1",
+          "comment": "Home KO WED 7:45PM"
+        },
+        "comment": "Home KO WED 7:45PM",
+        "from": {
+          "date": "2026-09-09",
+          "time": "19:45"
+        },
+        "to": {
+          "date": "2026-09-07",
+          "time": "19:45"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-08-30T08:48:28.707Z",
     "changes": [
       {
