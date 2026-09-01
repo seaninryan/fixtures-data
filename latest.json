@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-31T13:43:58.391Z",
+  "fetchedAt": "2026-09-01T11:36:10.161Z",
   "fixtures": [
-    {
-      "fid": "6957591",
-      "teamId": "235299",
-      "date": "2026-08-31",
-      "time": "18:30",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Renmore",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U18 Division 1",
-      "comment": "Moved as agreed (21/8)"
-    },
     {
       "fid": "6951017",
       "teamId": "235380",
@@ -102,7 +90,7 @@
       "fid": "6952171",
       "teamId": "235325",
       "date": "2026-09-06",
-      "time": "11:00",
+      "time": "11:30",
       "isHome": true,
       "ourTeam": "Craughwell United",
       "opponent": "Salthill Devon B",
@@ -123,6 +111,18 @@
       "comment": ""
     },
     {
+      "fid": "6955968",
+      "teamId": "238128",
+      "date": "2026-09-06",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "venue": "New Village Astro",
+      "competition": "GFA Girls U18 Championship",
+      "comment": "Moved from 2pm as agreed (27/8)"
+    },
+    {
       "fid": "6957188",
       "teamId": "283766",
       "date": "2026-09-06",
@@ -133,18 +133,6 @@
       "venue": "Letterfrack",
       "competition": "GFA Girls U15 Division 1",
       "comment": "Home KO SUN 2PM"
-    },
-    {
-      "fid": "6955968",
-      "teamId": "238128",
-      "date": "2026-09-06",
-      "time": "15:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village",
-      "competition": "GFA Girls U18 Championship",
-      "comment": "Moved from 2pm as agreed (27/8)"
     },
     {
       "fid": "6964432",
@@ -481,6 +469,54 @@
       "venue": "Oranmore",
       "competition": "GFA Boys U18 Division 1",
       "comment": ""
+    },
+    {
+      "fid": "6951744",
+      "teamId": "254053",
+      "date": "2026-10-03",
+      "time": "12:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 2",
+      "comment": ""
+    },
+    {
+      "fid": "6972298",
+      "teamId": "380133",
+      "date": "2026-10-03",
+      "time": "12:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "St Patricks",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 4",
+      "comment": ""
+    },
+    {
+      "fid": "6950510",
+      "teamId": "235435",
+      "date": "2026-10-03",
+      "time": "12:30",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Bearna Na Forbacha",
+      "venue": "Furbo",
+      "competition": "GFA Boys U13 Championship 1",
+      "comment": "Home KO SAT 12:30PM"
+    },
+    {
+      "fid": "6952909",
+      "teamId": "300398",
+      "date": "2026-10-04",
+      "time": "16:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Knocknacarra B",
+      "venue": "Cappagh Park",
+      "competition": "GFA Boys U17 Division 1",
+      "comment": "Home KO SUN 4PM"
     },
     {
       "fid": "6964441",

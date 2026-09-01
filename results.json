@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T13:43:58.391Z",
+  "updatedAt": "2026-09-01T11:36:10.161Z",
   "results": [
     {
       "fid": "6951014",
@@ -37,6 +37,18 @@
       "theirScore": 2,
       "venue": "Clarinbridge",
       "competition": "GFA Girls U14 Division 2"
+    },
+    {
+      "fid": "6957591",
+      "teamId": "235299",
+      "date": "2026-08-31",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Renmore",
+      "ourScore": 1,
+      "theirScore": 3,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1"
     }
   ]
 }
