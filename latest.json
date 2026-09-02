@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-01T11:36:10.161Z",
+  "fetchedAt": "2026-09-02T11:14:33.253Z",
   "fixtures": [
-    {
-      "fid": "6951017",
-      "teamId": "235380",
-      "date": "2026-09-01",
-      "time": "18:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Salthill Devon B",
-      "venue": "NFP Park, Drom",
-      "competition": "GFA Boys U14 Championship 1",
-      "comment": ""
-    },
     {
       "fid": "6952178",
       "teamId": "235325",
@@ -126,7 +114,7 @@
       "fid": "6957188",
       "teamId": "283766",
       "date": "2026-09-06",
-      "time": "14:00",
+      "time": "15:15",
       "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "West Coast Utd",
