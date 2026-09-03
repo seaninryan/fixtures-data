@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T11:14:33.253Z",
+  "updatedAt": "2026-09-03T11:10:43.429Z",
   "results": [
     {
       "fid": "6951014",
@@ -61,6 +61,18 @@
       "theirScore": 4,
       "venue": "NFP Park, Drom",
       "competition": "GFA Boys U14 Championship 1"
+    },
+    {
+      "fid": "6952178",
+      "teamId": "235325",
+      "date": "2026-09-02",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colga",
+      "ourScore": 3,
+      "theirScore": 5,
+      "venue": "Clarinbridge",
+      "competition": "GFA U16 Boys Division 1"
     }
   ]
 }
