@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-03T11:10:43.429Z",
+  "fetchedAt": "2026-09-04T11:15:13.423Z",
   "fixtures": [
-    {
-      "fid": "6957594",
-      "teamId": "235299",
-      "date": "2026-09-03",
-      "time": "18:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Boys U18 Division 1",
-      "comment": ""
-    },
     {
       "fid": "6950505",
       "teamId": "235435",

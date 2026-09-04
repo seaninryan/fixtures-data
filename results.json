@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T11:10:43.429Z",
+  "updatedAt": "2026-09-04T11:15:13.423Z",
   "results": [
     {
       "fid": "6951014",
@@ -73,6 +73,18 @@
       "theirScore": 5,
       "venue": "Clarinbridge",
       "competition": "GFA U16 Boys Division 1"
+    },
+    {
+      "fid": "6957594",
+      "teamId": "235299",
+      "date": "2026-09-03",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Colemanstown",
+      "competition": "GFA Boys U18 Division 1"
     }
   ]
 }
