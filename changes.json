@@ -1,5 +1,98 @@
 [
   {
+    "checkedAt": "2026-09-06T10:53:18.422Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6946083",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946083",
+          "teamId": "235461",
+          "date": "2026-09-12",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Loughrea",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "moved",
+        "fid": "6948798",
+        "teamId": "380288",
+        "fixture": {
+          "fid": "6948798",
+          "teamId": "380288",
+          "date": "2026-09-12",
+          "time": "10:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Colga B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Division 3",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-09-12",
+          "time": "10:00"
+        },
+        "to": {
+          "date": "2026-09-12",
+          "time": "10:30"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6951022",
+        "teamId": "235380",
+        "fixture": {
+          "fid": "6951022",
+          "teamId": "235380",
+          "date": "2026-09-12",
+          "time": "11:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Athenry B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U14 Championship 1",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-09-12",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-09-12",
+          "time": "11:30"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "6946098",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946098",
+          "teamId": "235461",
+          "date": "2026-09-12",
+          "time": "10:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Loughrea",
+          "venue": "Loughrea",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-02T11:14:33.253Z",
     "changes": [
       {

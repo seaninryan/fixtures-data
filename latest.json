@@ -1,55 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-05T10:31:49.030Z",
+  "fetchedAt": "2026-09-06T10:53:18.422Z",
   "fixtures": [
-    {
-      "fid": "6950505",
-      "teamId": "235435",
-      "date": "2026-09-05",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Tuam Celtic",
-      "venue": "Tuam",
-      "competition": "GFA Boys U13 Championship 1",
-      "comment": ""
-    },
-    {
-      "fid": "6951736",
-      "teamId": "254053",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Moyne Villa B",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U15 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6972287",
-      "teamId": "380133",
-      "date": "2026-09-05",
-      "time": "13:15",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "MacDara B",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U15 Division 4",
-      "comment": ""
-    },
-    {
-      "fid": "6957990",
-      "teamId": "284049",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Kinvara Utd",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U13 Division 1",
-      "comment": ""
-    },
     {
       "fid": "6952171",
       "teamId": "235325",
@@ -111,14 +63,14 @@
       "comment": "Home KO WED 7:45PM"
     },
     {
-      "fid": "6946083",
+      "fid": "6946098",
       "teamId": "235461",
       "date": "2026-09-12",
-      "time": "10:00",
-      "isHome": true,
+      "time": "10:30",
+      "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "Loughrea",
-      "venue": "Craughwell",
+      "venue": "Loughrea",
       "competition": "GFA Boys U12 Premier 2",
       "comment": ""
     },
@@ -126,7 +78,7 @@
       "fid": "6948798",
       "teamId": "380288",
       "date": "2026-09-12",
-      "time": "10:00",
+      "time": "10:30",
       "isHome": true,
       "ourTeam": "Craughwell United B",
       "opponent": "Colga B",
@@ -138,7 +90,7 @@
       "fid": "6951022",
       "teamId": "235380",
       "date": "2026-09-12",
-      "time": "12:00",
+      "time": "11:30",
       "isHome": true,
       "ourTeam": "Craughwell United",
       "opponent": "Athenry B",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T10:31:49.030Z",
+  "updatedAt": "2026-09-06T10:53:18.422Z",
   "results": [
     {
       "fid": "6951014",
@@ -85,6 +85,54 @@
       "theirScore": 5,
       "venue": "Colemanstown",
       "competition": "GFA Boys U18 Division 1"
+    },
+    {
+      "fid": "6950505",
+      "teamId": "235435",
+      "date": "2026-09-05",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Tuam Celtic",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Tuam",
+      "competition": "GFA Boys U13 Championship 1"
+    },
+    {
+      "fid": "6951736",
+      "teamId": "254053",
+      "date": "2026-09-05",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Moyne Villa B",
+      "ourScore": 1,
+      "theirScore": 6,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 2"
+    },
+    {
+      "fid": "6972287",
+      "teamId": "380133",
+      "date": "2026-09-05",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "MacDara B",
+      "ourScore": 3,
+      "theirScore": 3,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 4"
+    },
+    {
+      "fid": "6957990",
+      "teamId": "284049",
+      "date": "2026-09-06",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Kinvara Utd",
+      "ourScore": 2,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U13 Division 1"
     }
   ]
 }
