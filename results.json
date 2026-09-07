@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T10:53:18.422Z",
+  "updatedAt": "2026-09-07T12:27:03.657Z",
   "results": [
     {
       "fid": "6951014",
@@ -121,6 +121,54 @@
       "theirScore": 3,
       "venue": "Craughwell",
       "competition": "GFA Boys U15 Division 4"
+    },
+    {
+      "fid": "6952171",
+      "teamId": "235325",
+      "date": "2026-09-06",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Salthill Devon B",
+      "ourScore": 3,
+      "theirScore": 3,
+      "venue": "Craughwell",
+      "competition": "GFA U16 Boys Division 1"
+    },
+    {
+      "fid": "6952900",
+      "teamId": "300398",
+      "date": "2026-09-06",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Ballinasloe Town",
+      "ourScore": 2,
+      "theirScore": 2,
+      "venue": "Ballinasloe",
+      "competition": "GFA Boys U17 Division 1"
+    },
+    {
+      "fid": "6955968",
+      "teamId": "238128",
+      "date": "2026-09-06",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "ourScore": 3,
+      "theirScore": 5,
+      "venue": "New Village Astro",
+      "competition": "GFA Girls U18 Championship"
+    },
+    {
+      "fid": "6957188",
+      "teamId": "283766",
+      "date": "2026-09-06",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "West Coast Utd",
+      "ourScore": 1,
+      "theirScore": 1,
+      "venue": "Letterfrack",
+      "competition": "GFA Girls U15 Division 1"
     },
     {
       "fid": "6957990",
