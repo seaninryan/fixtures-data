@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T12:27:03.657Z",
+  "updatedAt": "2026-09-08T11:14:41.421Z",
   "results": [
     {
       "fid": "6951014",
@@ -181,6 +181,18 @@
       "theirScore": 0,
       "venue": "Craughwell",
       "competition": "GFA Girls U13 Division 1"
+    },
+    {
+      "fid": "6964432",
+      "teamId": "234323",
+      "date": "2026-09-07",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "ourScore": 4,
+      "theirScore": 1,
+      "venue": "Colemanstown",
+      "competition": "GFA U21 Division 1"
     }
   ]
 }
