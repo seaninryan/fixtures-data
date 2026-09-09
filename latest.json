@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-08T11:14:41.421Z",
+  "fetchedAt": "2026-09-09T11:19:03.650Z",
   "fixtures": [
     {
       "fid": "6946098",
@@ -504,6 +504,18 @@
       "opponent": "West Utd",
       "venue": "Craughwell",
       "competition": "GFA Women's Championship & Div 1 Cup",
+      "comment": ""
+    },
+    {
+      "fid": "6950527",
+      "teamId": "235435",
+      "date": "2026-10-17",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Corrib Rangers",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U13 Championship 1",
       "comment": ""
     },
     {

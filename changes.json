@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-09-09T11:19:03.650Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6950527",
+        "teamId": "235435",
+        "fixture": {
+          "fid": "6950527",
+          "teamId": "235435",
+          "date": "2026-10-17",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Rangers",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U13 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-08T11:14:41.421Z",
     "changes": [
       {
