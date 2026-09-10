@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-09T11:19:03.650Z",
+  "fetchedAt": "2026-09-10T11:15:22.539Z",
   "fixtures": [
     {
       "fid": "6946098",
@@ -195,18 +195,6 @@
       "comment": ""
     },
     {
-      "fid": "6964436",
-      "teamId": "234323",
-      "date": "2026-09-23",
-      "time": "20:15",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Galway Hibs",
-      "venue": "Craughwell",
-      "competition": "GFA U21 Division 1",
-      "comment": ""
-    },
-    {
       "fid": "6946086",
       "teamId": "235461",
       "date": "2026-09-26",
@@ -288,6 +276,18 @@
       "opponent": "Kinvara Utd",
       "venue": "Kinvara",
       "competition": "GFA U16 Boys Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6964436",
+      "teamId": "234323",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Galway Hibs",
+      "venue": "Craughwell",
+      "competition": "GFA U21 Division 1",
       "comment": ""
     },
     {
@@ -516,18 +516,6 @@
       "opponent": "Corrib Rangers",
       "venue": "Craughwell",
       "competition": "GFA Boys U13 Championship 1",
-      "comment": ""
-    },
-    {
-      "fid": "6982061",
-      "teamId": "254053",
-      "date": "2026-10-17",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Moyne Villa B",
-      "venue": "Headford",
-      "competition": "GFA Boys U15 Division 2 Cup",
       "comment": ""
     },
     {
