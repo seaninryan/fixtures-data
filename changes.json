@@ -1,5 +1,64 @@
 [
   {
+    "checkedAt": "2026-09-11T11:17:12.783Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6958960",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958960",
+          "teamId": "238174",
+          "date": "2026-09-13",
+          "time": "10:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": "Colemanstown requested kickoff time"
+        },
+        "comment": "Colemanstown requested kickoff time"
+      },
+      {
+        "type": "cancelled",
+        "fid": "6946086",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946086",
+          "teamId": "235461",
+          "date": "2026-09-26",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Renmore",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946083",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946083",
+          "teamId": "235461",
+          "date": "2026-09-26",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Loughrea",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-10T11:15:22.539Z",
     "changes": [
       {

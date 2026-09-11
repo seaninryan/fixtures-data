@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-10T11:15:22.539Z",
+  "fetchedAt": "2026-09-11T11:17:12.783Z",
   "fixtures": [
     {
       "fid": "6946098",
@@ -49,18 +49,6 @@
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Division 4",
       "comment": ""
-    },
-    {
-      "fid": "6958960",
-      "teamId": "238174",
-      "date": "2026-09-13",
-      "time": "10:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Girls U12 Division 1",
-      "comment": "Colemanstown requested kickoff time"
     },
     {
       "fid": "6963381",
@@ -195,14 +183,14 @@
       "comment": ""
     },
     {
-      "fid": "6946086",
+      "fid": "6946083",
       "teamId": "235461",
       "date": "2026-09-26",
       "time": "10:00",
-      "isHome": false,
+      "isHome": true,
       "ourTeam": "Craughwell United",
-      "opponent": "Renmore",
-      "venue": "Renmore",
+      "opponent": "Loughrea",
+      "venue": "Craughwell",
       "competition": "GFA Boys U12 Premier 2",
       "comment": ""
     },
