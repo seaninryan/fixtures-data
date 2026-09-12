@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-11T11:17:12.783Z",
+  "fetchedAt": "2026-09-12T10:42:37.940Z",
   "fixtures": [
     {
       "fid": "6946098",
@@ -51,18 +51,6 @@
       "comment": ""
     },
     {
-      "fid": "6963381",
-      "teamId": "238188",
-      "date": "2026-09-13",
-      "time": "10:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Kilshanvey Utd",
-      "venue": "Kilconly",
-      "competition": "GFA Girls U12 Division 4",
-      "comment": ""
-    },
-    {
       "fid": "6952179",
       "teamId": "235325",
       "date": "2026-09-13",
@@ -84,18 +72,6 @@
       "opponent": "Tuam Celtic",
       "venue": "Craughwell",
       "competition": "GFA Girls U14 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6946485",
-      "teamId": "379931",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village",
-      "competition": "GFA Women's Championship",
       "comment": ""
     },
     {

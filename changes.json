@@ -1,5 +1,46 @@
 [
   {
+    "checkedAt": "2026-09-12T10:42:37.940Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6963381",
+        "teamId": "238188",
+        "fixture": {
+          "fid": "6963381",
+          "teamId": "238188",
+          "date": "2026-09-13",
+          "time": "10:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Kilshanvey Utd",
+          "venue": "Kilconly",
+          "competition": "GFA Girls U12 Division 4",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "cancelled",
+        "fid": "6946485",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946485",
+          "teamId": "379931",
+          "date": "2026-09-13",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-11T11:17:12.783Z",
     "changes": [
       {
