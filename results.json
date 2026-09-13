@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T10:42:37.940Z",
+  "updatedAt": "2026-09-13T11:47:58.013Z",
   "results": [
     {
       "fid": "6951014",
@@ -193,6 +193,54 @@
       "theirScore": 1,
       "venue": "Colemanstown",
       "competition": "GFA U21 Division 1"
+    },
+    {
+      "fid": "6946098",
+      "teamId": "235461",
+      "date": "2026-09-12",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Loughrea",
+      "ourScore": 2,
+      "theirScore": 2,
+      "venue": "Loughrea",
+      "competition": "GFA Boys U12 Premier 2"
+    },
+    {
+      "fid": "6948798",
+      "teamId": "380288",
+      "date": "2026-09-12",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Colga B",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U12 Division 3"
+    },
+    {
+      "fid": "6951022",
+      "teamId": "235380",
+      "date": "2026-09-12",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Athenry B",
+      "ourScore": 3,
+      "theirScore": 4,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U14 Championship 1"
+    },
+    {
+      "fid": "6951309",
+      "teamId": "254061",
+      "date": "2026-09-12",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Athenry D",
+      "ourScore": 6,
+      "theirScore": 1,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U14 Division 4"
     }
   ]
 }

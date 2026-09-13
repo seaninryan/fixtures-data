@@ -1,5 +1,64 @@
 [
   {
+    "checkedAt": "2026-09-13T11:47:58.013Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6957606",
+        "teamId": "235299",
+        "fixture": {
+          "fid": "6957606",
+          "teamId": "235299",
+          "date": "2026-10-25",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Galway Bohs",
+          "venue": "Millers Lane",
+          "competition": "GFA Boys U18 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6952914",
+        "teamId": "300398",
+        "fixture": {
+          "fid": "6952914",
+          "teamId": "300398",
+          "date": "2026-11-01",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Athenry B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U17 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6957612",
+        "teamId": "235299",
+        "fixture": {
+          "fid": "6957612",
+          "teamId": "235299",
+          "date": "2026-11-08",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "East Galway Utd",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U18 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-12T10:42:37.940Z",
     "changes": [
       {

@@ -1,55 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-12T10:42:37.940Z",
+  "fetchedAt": "2026-09-13T11:47:58.013Z",
   "fixtures": [
-    {
-      "fid": "6946098",
-      "teamId": "235461",
-      "date": "2026-09-12",
-      "time": "10:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Loughrea",
-      "venue": "Loughrea",
-      "competition": "GFA Boys U12 Premier 2",
-      "comment": ""
-    },
-    {
-      "fid": "6948798",
-      "teamId": "380288",
-      "date": "2026-09-12",
-      "time": "10:30",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Colga B",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U12 Division 3",
-      "comment": ""
-    },
-    {
-      "fid": "6951022",
-      "teamId": "235380",
-      "date": "2026-09-12",
-      "time": "11:30",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Athenry B",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U14 Championship 1",
-      "comment": ""
-    },
-    {
-      "fid": "6951309",
-      "teamId": "254061",
-      "date": "2026-09-12",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Athenry D",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U14 Division 4",
-      "comment": ""
-    },
     {
       "fid": "6952179",
       "teamId": "235325",
@@ -519,6 +471,30 @@
       "comment": ""
     },
     {
+      "fid": "6957606",
+      "teamId": "235299",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Galway Bohs",
+      "venue": "Millers Lane",
+      "competition": "GFA Boys U18 Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6952914",
+      "teamId": "300398",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Athenry B",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U17 Division 1",
+      "comment": ""
+    },
+    {
       "fid": "6964451",
       "teamId": "234323",
       "date": "2026-11-04",
@@ -528,6 +504,18 @@
       "opponent": "Knocknacarra B",
       "venue": "Craughwell",
       "competition": "GFA U21 Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6957612",
+      "teamId": "235299",
+      "date": "2026-11-08",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "East Galway Utd",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1",
       "comment": ""
     },
     {
