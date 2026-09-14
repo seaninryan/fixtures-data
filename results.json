@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T11:47:58.013Z",
+  "updatedAt": "2026-09-14T12:41:17.252Z",
   "results": [
     {
       "fid": "6951014",
@@ -241,6 +241,42 @@
       "theirScore": 1,
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Division 4"
+    },
+    {
+      "fid": "6952179",
+      "teamId": "235325",
+      "date": "2026-09-13",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Knocknacarra B",
+      "ourScore": 2,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA U16 Boys Division 1"
+    },
+    {
+      "fid": "6957601",
+      "teamId": "235299",
+      "date": "2026-09-13",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "MacDara",
+      "ourScore": 1,
+      "theirScore": 3,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1"
+    },
+    {
+      "fid": "6957813",
+      "teamId": "238155",
+      "date": "2026-09-13",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Tuam Celtic",
+      "ourScore": 0,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U14 Division 2"
     }
   ]
 }
