@@ -1,5 +1,100 @@
 [
   {
+    "checkedAt": "2026-09-16T11:28:11.994Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6958960",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958960",
+          "teamId": "238174",
+          "date": "2026-09-18",
+          "time": "19:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": "Colemanstown requested kickoff time"
+        },
+        "comment": "Colemanstown requested kickoff time"
+      },
+      {
+        "type": "added",
+        "fid": "6946086",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946086",
+          "teamId": "235461",
+          "date": "2026-10-24",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Renmore",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6950512",
+        "teamId": "235435",
+        "fixture": {
+          "fid": "6950512",
+          "teamId": "235435",
+          "date": "2026-10-31",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Rangers",
+          "venue": "Westside",
+          "competition": "GFA Boys U13 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946090",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946090",
+          "teamId": "235461",
+          "date": "2026-11-07",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6950515",
+        "teamId": "235435",
+        "fixture": {
+          "fid": "6950515",
+          "teamId": "235435",
+          "date": "2026-11-14",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Cregmore/Claregalway",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U13 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-15T11:41:06.189Z",
     "changes": [
       {
