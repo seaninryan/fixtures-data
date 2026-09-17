@@ -76,6 +76,12 @@
     "380288": {
       "label": "U12B Boys",
       "color": "#d0ff00"
+    },
+    "fai:61270": {
+      "label": "Junior Men"
+    },
+    "fai:87946": {
+      "label": "Junior Men's Reserves"
     }
   }
 }
