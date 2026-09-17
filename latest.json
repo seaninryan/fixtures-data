@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-16T11:28:11.994Z",
+  "fetchedAt": "2026-09-17T11:37:44.237Z",
   "fixtures": [
     {
       "fid": "6958960",
@@ -135,14 +135,14 @@
       "comment": ""
     },
     {
-      "fid": "6963383",
+      "fid": "7004810",
       "teamId": "238188",
       "date": "2026-09-27",
       "time": "10:00",
-      "isHome": true,
+      "isHome": false,
       "ourTeam": "Craughwell United B",
-      "opponent": "Bearna Na Forbacha",
-      "venue": "Craughwell",
+      "opponent": "Kiltullagh B",
+      "venue": "Kiltullagh",
       "competition": "GFA Girls U12 Division 4",
       "comment": ""
     },
@@ -351,6 +351,18 @@
       "comment": ""
     },
     {
+      "fid": "7004818",
+      "teamId": "238188",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Oughterard",
+      "venue": "New Village",
+      "competition": "GFA Girls U12 Division 4",
+      "comment": ""
+    },
+    {
       "fid": "6981155",
       "teamId": "235299",
       "date": "2026-10-11",
@@ -447,6 +459,18 @@
       "comment": ""
     },
     {
+      "fid": "6948808",
+      "teamId": "380288",
+      "date": "2026-10-24",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "St Bernards B",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U12 Division 3",
+      "comment": ""
+    },
+    {
       "fid": "6951030",
       "teamId": "235380",
       "date": "2026-10-24",
@@ -468,6 +492,18 @@
       "opponent": "Oughterard C",
       "venue": "New Village",
       "competition": "GFA Boys U14 Division 4",
+      "comment": ""
+    },
+    {
+      "fid": "7004821",
+      "teamId": "238188",
+      "date": "2026-10-25",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Maree/Oranmore C",
+      "venue": "Craughwell",
+      "competition": "GFA Girls U12 Division 4",
       "comment": ""
     },
     {
@@ -567,6 +603,18 @@
       "comment": ""
     },
     {
+      "fid": "6948811",
+      "teamId": "380288",
+      "date": "2026-11-07",
+      "time": "10:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Corofin Utd B",
+      "venue": "Corofin",
+      "competition": "GFA Boys U12 Division 3",
+      "comment": ""
+    },
+    {
       "fid": "6951034",
       "teamId": "235380",
       "date": "2026-11-07",
@@ -588,6 +636,18 @@
       "opponent": "Knocknacarra D",
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Division 4",
+      "comment": ""
+    },
+    {
+      "fid": "7004827",
+      "teamId": "238188",
+      "date": "2026-11-08",
+      "time": "10:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Corrib Celtic B",
+      "venue": "Annaghdown",
+      "competition": "GFA Girls U12 Division 4",
       "comment": ""
     },
     {
@@ -696,18 +756,6 @@
       "opponent": "Colga",
       "venue": "Clarinbridge",
       "competition": "GFA Girls U18 Championship",
-      "comment": ""
-    },
-    {
-      "fid": "6963381",
-      "teamId": "238188",
-      "date": "2027-01-01",
-      "time": "10:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Kilshanvey Utd",
-      "venue": "Kilconly",
-      "competition": "GFA Girls U12 Division 4",
       "comment": ""
     },
     {
