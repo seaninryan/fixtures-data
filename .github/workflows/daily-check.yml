@@ -63,6 +63,7 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
           ALERT_FROM_EMAIL: ${{ secrets.ALERT_FROM_EMAIL }}
+          FAI_CONNECT_API_KEY: ${{ secrets.FAI_CONNECT_API_KEY }}
 
       # !cancelled(), not success(): if the email step above fails the snapshot has
       # ALREADY been written, and refusing to commit it would leave the run with nothing
