@@ -78,10 +78,12 @@
       "color": "#d0ff00"
     },
     "fai:61270": {
-      "label": "Junior Men"
+      "label": "Junior Men",
+      "color": "#ff0000"
     },
     "fai:87946": {
-      "label": "Junior Men's Reserves"
+      "label": "Junior Men's Reserves",
+      "color": "#00f010"
     }
   }
 }
