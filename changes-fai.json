@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "checkedAt": "2026-09-18T11:10:19.842Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "fai:52871799",
+        "teamId": "fai:87946",
+        "fixture": {
+          "fid": "fai:52871799",
+          "teamId": "fai:87946",
+          "date": "2026-10-18",
+          "time": "15:00",
+          "isHome": true,
+          "ourTeam": "CUFC Reserves",
+          "opponent": "Merlin Woods Reserve 2425",
+          "venue": "",
+          "competition": "Western Hygiene Supplies Mens Reserve League",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-18",
+          "time": "16:00"
+        },
+        "to": {
+          "date": "2026-10-18",
+          "time": "15:00"
+        }
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-17T15:39:27.968Z",
+  "fetchedAt": "2026-09-18T11:10:19.842Z",
   "fixtures": [
     {
       "fid": "fai:52005172",
@@ -102,7 +102,7 @@
       "fid": "fai:52871799",
       "teamId": "fai:87946",
       "date": "2026-10-18",
-      "time": "16:00",
+      "time": "15:00",
       "isHome": true,
       "ourTeam": "CUFC Reserves",
       "opponent": "Merlin Woods Reserve 2425",
