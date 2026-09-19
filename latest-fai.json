@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-18T11:10:19.842Z",
+  "fetchedAt": "2026-09-19T10:54:46.664Z",
   "fixtures": [
-    {
-      "fid": "fai:52005172",
-      "teamId": "fai:61270",
-      "date": "2026-09-19",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United Juniors",
-      "opponent": "Renmore FC",
-      "venue": "",
-      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
-      "comment": ""
-    },
     {
       "fid": "fai:52871790",
       "teamId": "fai:87946",

@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-18T11:10:19.842Z",
+  "fetchedAt": "2026-09-19T10:54:46.664Z",
   "fixtures": [
-    {
-      "fid": "6958960",
-      "teamId": "238174",
-      "date": "2026-09-18",
-      "time": "19:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Girls U12 Division 1",
-      "comment": "Colemanstown requested kickoff time"
-    },
     {
       "fid": "6950507",
       "teamId": "235435",
@@ -111,6 +99,18 @@
       "comment": ""
     },
     {
+      "fid": "6951025",
+      "teamId": "235380",
+      "date": "2026-09-26",
+      "time": "12:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Bearna Na Forbacha",
+      "venue": "Furbo",
+      "competition": "GFA Boys U14 Championship 1",
+      "comment": ""
+    },
+    {
       "fid": "6951310",
       "teamId": "254061",
       "date": "2026-09-26",
@@ -120,18 +120,6 @@
       "opponent": "St Bernards B",
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Division 4",
-      "comment": ""
-    },
-    {
-      "fid": "6951025",
-      "teamId": "235380",
-      "date": "2026-09-26",
-      "time": "12:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Bearna Na Forbacha",
-      "venue": "Furbo",
-      "competition": "GFA Boys U14 Championship 1",
       "comment": ""
     },
     {
