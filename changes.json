@@ -1,5 +1,36 @@
 [
   {
+    "checkedAt": "2026-09-20T11:19:07.740Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "7004810",
+        "teamId": "238188",
+        "fixture": {
+          "fid": "7004810",
+          "teamId": "238188",
+          "date": "2026-09-27",
+          "time": "10:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Kiltullagh B",
+          "venue": "Kiltullagh",
+          "competition": "GFA Girls U12 Division 4",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-09-27",
+          "time": "10:00"
+        },
+        "to": {
+          "date": "2026-09-27",
+          "time": "10:30"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-19T10:54:46.664Z",
     "changes": [
       {

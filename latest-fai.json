@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-19T10:54:46.664Z",
+  "fetchedAt": "2026-09-20T11:19:07.740Z",
   "fixtures": [
-    {
-      "fid": "fai:52871790",
-      "teamId": "fai:87946",
-      "date": "2026-09-20",
-      "time": "16:00",
-      "isHome": true,
-      "ourTeam": "CUFC Reserves",
-      "opponent": "East Galway United FC - Reserves",
-      "venue": "Craughwell",
-      "competition": "Western Hygiene Supplies Mens Reserve League",
-      "comment": ""
-    },
     {
       "fid": "fai:52005175",
       "teamId": "fai:61270",
@@ -25,18 +13,6 @@
       "venue": "Craughwell",
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
       "comment": ""
-    },
-    {
-      "fid": "fai:52005183",
-      "teamId": "fai:61270",
-      "date": "2026-10-03",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United Juniors",
-      "opponent": "Galway Hibernians",
-      "venue": "",
-      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
-      "comment": "POSTPONED"
     },
     {
       "fid": "fai:54260979",
@@ -96,6 +72,18 @@
       "opponent": "Merlin Woods Reserve 2425",
       "venue": "",
       "competition": "Western Hygiene Supplies Mens Reserve League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:52005183",
+      "teamId": "fai:61270",
+      "date": "2026-10-24",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Galway Hibernians",
+      "venue": "",
+      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
       "comment": ""
     }
   ]

@@ -1,43 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-19T10:54:46.664Z",
+  "fetchedAt": "2026-09-20T11:19:07.740Z",
   "fixtures": [
-    {
-      "fid": "6950507",
-      "teamId": "235435",
-      "date": "2026-09-19",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Kinvara Utd",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U13 Championship 1",
-      "comment": ""
-    },
-    {
-      "fid": "6951739",
-      "teamId": "254053",
-      "date": "2026-09-19",
-      "time": "12:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Athenry B",
-      "venue": "Athenry - Raheen",
-      "competition": "GFA Boys U15 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6972294",
-      "teamId": "380133",
-      "date": "2026-09-19",
-      "time": "12:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "West Utd B",
-      "venue": "South Park",
-      "competition": "GFA Boys U15 Division 4",
-      "comment": ""
-    },
     {
       "fid": "6957993",
       "teamId": "284049",
@@ -48,18 +12,6 @@
       "opponent": "Colemanstown Utd",
       "venue": "Colemanstown",
       "competition": "GFA Girls U13 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6957193",
-      "teamId": "283766",
-      "date": "2026-09-20",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Corrib Rangers",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U15 Division 1",
       "comment": ""
     },
     {
@@ -126,7 +78,7 @@
       "fid": "7004810",
       "teamId": "238188",
       "date": "2026-09-27",
-      "time": "10:00",
+      "time": "10:30",
       "isHome": false,
       "ourTeam": "Craughwell United B",
       "opponent": "Kiltullagh B",

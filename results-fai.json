@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T10:54:46.664Z",
+  "updatedAt": "2026-09-20T11:19:07.740Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -21,6 +21,18 @@
       "isHome": true,
       "ourTeam": "Craughwell United Juniors",
       "opponent": "Mervue United FC Jun A",
+      "ourScore": 0,
+      "theirScore": 4,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League"
+    },
+    {
+      "fid": "fai:52005172",
+      "teamId": "fai:61270",
+      "date": "2026-09-19",
+      "isHome": false,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Renmore FC",
       "ourScore": 0,
       "theirScore": 4,
       "venue": "",
