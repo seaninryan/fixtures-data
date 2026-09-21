@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T11:19:07.740Z",
+  "updatedAt": "2026-09-21T12:43:51.467Z",
   "results": [
     {
       "fid": "6951014",
@@ -327,6 +327,18 @@
       "competition": "GFA Boys U15 Division 4"
     },
     {
+      "fid": "6952906",
+      "teamId": "300398",
+      "date": "2026-09-20",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "MacDara",
+      "ourScore": 1,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U17 Division 1"
+    },
+    {
       "fid": "6957193",
       "teamId": "283766",
       "date": "2026-09-20",
@@ -337,6 +349,18 @@
       "theirScore": 0,
       "venue": "Craughwell",
       "competition": "GFA Girls U15 Division 1"
+    },
+    {
+      "fid": "6957993",
+      "teamId": "284049",
+      "date": "2026-09-20",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "ourScore": 2,
+      "theirScore": 0,
+      "venue": "Colemanstown",
+      "competition": "GFA Girls U13 Division 1"
     }
   ]
 }

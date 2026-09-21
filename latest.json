@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-20T11:19:07.740Z",
+  "fetchedAt": "2026-09-21T12:43:51.467Z",
   "fixtures": [
-    {
-      "fid": "6957993",
-      "teamId": "284049",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Girls U13 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6952906",
-      "teamId": "300398",
-      "date": "2026-09-20",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "MacDara",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U17 Division 1",
-      "comment": ""
-    },
     {
       "fid": "6946083",
       "teamId": "235461",

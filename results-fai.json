@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T11:19:07.740Z",
+  "updatedAt": "2026-09-21T12:43:51.467Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -37,6 +37,18 @@
       "theirScore": 4,
       "venue": "",
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League"
+    },
+    {
+      "fid": "fai:52871790",
+      "teamId": "fai:87946",
+      "date": "2026-09-20",
+      "isHome": true,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "East Galway United FC - Reserves",
+      "ourScore": 9,
+      "theirScore": 2,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Mens Reserve League"
     }
   ]
 }
