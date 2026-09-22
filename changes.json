@@ -1,5 +1,334 @@
 [
   {
+    "checkedAt": "2026-09-22T11:34:04.017Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6955980",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955980",
+          "teamId": "238128",
+          "date": "2026-10-04",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Cappagh Park",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6958000",
+        "teamId": "284049",
+        "fixture": {
+          "fid": "6958000",
+          "teamId": "284049",
+          "date": "2026-10-18",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Tuam Celtic",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U13 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6957194",
+        "teamId": "283766",
+        "fixture": {
+          "fid": "6957194",
+          "teamId": "283766",
+          "date": "2026-10-18",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Salthill Devon B",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U15 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6958965",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958965",
+          "teamId": "238174",
+          "date": "2026-10-25",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Tuam Celtic",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6957822",
+        "teamId": "238155",
+        "fixture": {
+          "fid": "6957822",
+          "teamId": "238155",
+          "date": "2026-10-25",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Athenry B",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U14 Division 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6958003",
+        "teamId": "284049",
+        "fixture": {
+          "fid": "6958003",
+          "teamId": "284049",
+          "date": "2026-11-01",
+          "time": "09:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Loughrea",
+          "venue": "Loughrea",
+          "competition": "GFA Girls U13 Division 1",
+          "comment": "Home KO SUN 9:30AM"
+        },
+        "comment": "Home KO SUN 9:30AM"
+      },
+      {
+        "type": "added",
+        "fid": "6957198",
+        "teamId": "283766",
+        "fixture": {
+          "fid": "6957198",
+          "teamId": "283766",
+          "date": "2026-11-01",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Gort Utd",
+          "venue": "Athenry",
+          "competition": "GFA Girls U15 Division 1",
+          "comment": "Home KO SUN 10AM"
+        },
+        "comment": "Home KO SUN 10AM"
+      },
+      {
+        "type": "added",
+        "fid": "6958005",
+        "teamId": "284049",
+        "fixture": {
+          "fid": "6958005",
+          "teamId": "284049",
+          "date": "2026-11-01",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Cappagh Park",
+          "competition": "GFA Girls U13 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6955986",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955986",
+          "teamId": "238128",
+          "date": "2026-11-01",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Gort Utd",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6958966",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958966",
+          "teamId": "238174",
+          "date": "2026-11-08",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6957826",
+        "teamId": "238155",
+        "fixture": {
+          "fid": "6957826",
+          "teamId": "238155",
+          "date": "2026-11-08",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Salthill Devon C",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U14 Division 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946496",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946496",
+          "teamId": "379931",
+          "date": "2026-11-08",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Rangers",
+          "venue": "Westside",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6957200",
+        "teamId": "283766",
+        "fixture": {
+          "fid": "6957200",
+          "teamId": "283766",
+          "date": "2026-11-15",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Cappagh Park",
+          "competition": "GFA Girls U15 Division 1",
+          "comment": "Home KO SUN 10AM"
+        },
+        "comment": "Home KO SUN 10AM"
+      },
+      {
+        "type": "added",
+        "fid": "6952916",
+        "teamId": "300398",
+        "fixture": {
+          "fid": "6952916",
+          "teamId": "300398",
+          "date": "2026-11-15",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "East Galway Utd",
+          "venue": "Kiltormer",
+          "competition": "GFA Boys U17 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6955992",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955992",
+          "teamId": "238128",
+          "date": "2026-11-15",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6957830",
+        "teamId": "238155",
+        "fixture": {
+          "fid": "6957830",
+          "teamId": "238155",
+          "date": "2026-11-22",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Bearna Na Forbacha B",
+          "venue": "Furbo",
+          "competition": "GFA Girls U14 Division 2",
+          "comment": "Home KO SUN 10AM"
+        },
+        "comment": "Home KO SUN 10AM"
+      },
+      {
+        "type": "added",
+        "fid": "6958970",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958970",
+          "teamId": "238174",
+          "date": "2026-11-22",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946502",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946502",
+          "teamId": "379931",
+          "date": "2026-11-22",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Kilshanvey Utd",
+          "venue": "Kilconly",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-20T11:19:07.740Z",
     "changes": [
       {
