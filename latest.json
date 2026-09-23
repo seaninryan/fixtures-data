@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-22T11:34:04.017Z",
+  "fetchedAt": "2026-09-23T11:31:15.075Z",
   "fixtures": [
     {
       "fid": "6946083",
@@ -123,6 +123,18 @@
       "comment": ""
     },
     {
+      "fid": "6972298",
+      "teamId": "380133",
+      "date": "2026-10-03",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "St Patricks",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 4",
+      "comment": ""
+    },
+    {
       "fid": "6951744",
       "teamId": "254053",
       "date": "2026-10-03",
@@ -132,18 +144,6 @@
       "opponent": "Colemanstown Utd",
       "venue": "Craughwell",
       "competition": "GFA Boys U15 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6972298",
-      "teamId": "380133",
-      "date": "2026-10-03",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "St Patricks",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U15 Division 4",
       "comment": ""
     },
     {
@@ -174,7 +174,7 @@
       "fid": "6990903",
       "teamId": "284049",
       "date": "2026-10-04",
-      "time": "00:00",
+      "time": "10:00",
       "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "Kinvara Utd",
@@ -543,18 +543,6 @@
       "comment": ""
     },
     {
-      "fid": "6958003",
-      "teamId": "284049",
-      "date": "2026-11-01",
-      "time": "09:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Loughrea",
-      "venue": "Loughrea",
-      "competition": "GFA Girls U13 Division 1",
-      "comment": "Home KO SUN 9:30AM"
-    },
-    {
       "fid": "6957198",
       "teamId": "283766",
       "date": "2026-11-01",
@@ -747,6 +735,18 @@
       "comment": ""
     },
     {
+      "fid": "6958003",
+      "teamId": "284049",
+      "date": "2026-11-15",
+      "time": "09:30",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Loughrea",
+      "venue": "Loughrea",
+      "competition": "GFA Girls U13 Division 1",
+      "comment": "Home KO SUN 9:30AM"
+    },
+    {
       "fid": "6957200",
       "teamId": "283766",
       "date": "2026-11-15",
@@ -855,6 +855,30 @@
       "comment": ""
     },
     {
+      "fid": "6957616",
+      "teamId": "235299",
+      "date": "2026-11-22",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "St Bernards",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6958011",
+      "teamId": "284049",
+      "date": "2026-11-29",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "venue": "Craughwell",
+      "competition": "GFA Girls U13 Division 1",
+      "comment": ""
+    },
+    {
       "fid": "6964462",
       "teamId": "234323",
       "date": "2026-12-02",
@@ -864,6 +888,18 @@
       "opponent": "Oughterard",
       "venue": "Craughwell",
       "competition": "GFA U21 Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6958015",
+      "teamId": "284049",
+      "date": "2026-12-13",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Coole FC",
+      "venue": "Craughwell",
+      "competition": "GFA Girls U13 Division 1",
       "comment": ""
     },
     {
