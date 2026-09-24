@@ -1,5 +1,90 @@
 [
   {
+    "checkedAt": "2026-09-24T11:41:29.914Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6946490",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946490",
+          "teamId": "379931",
+          "date": "2026-09-27",
+          "time": "13:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Kiltullagh",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-09-27",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-09-27",
+          "time": "13:30"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "6951036",
+        "teamId": "235380",
+        "fixture": {
+          "fid": "6951036",
+          "teamId": "235380",
+          "date": "2026-11-21",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Boys U14 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6951326",
+        "teamId": "254061",
+        "fixture": {
+          "fid": "6951326",
+          "teamId": "254061",
+          "date": "2026-11-21",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Tuam Celtic C",
+          "venue": "Tuam",
+          "competition": "GFA Boys U14 Division 4",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6952195",
+        "teamId": "235325",
+        "fixture": {
+          "fid": "6952195",
+          "teamId": "235325",
+          "date": "2026-11-22",
+          "time": "11:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Loughrea",
+          "venue": "Craughwell",
+          "competition": "GFA U16 Boys Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-23T11:31:15.075Z",
     "changes": [
       {
