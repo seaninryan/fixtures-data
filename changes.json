@@ -1,5 +1,64 @@
 [
   {
+    "checkedAt": "2026-09-25T11:47:37.235Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6946092",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946092",
+          "teamId": "235461",
+          "date": "2026-11-21",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colga",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6948813",
+        "teamId": "380288",
+        "fixture": {
+          "fid": "6948813",
+          "teamId": "380288",
+          "date": "2026-11-21",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Renmore B",
+          "venue": "Renmore",
+          "competition": "GFA Boys U12 Division 3",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6952922",
+        "teamId": "300398",
+        "fixture": {
+          "fid": "6952922",
+          "teamId": "300398",
+          "date": "2026-11-29",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "St Bernards B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U17 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-24T11:41:29.914Z",
     "changes": [
       {
