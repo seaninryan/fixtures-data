@@ -1,5 +1,160 @@
 [
   {
+    "checkedAt": "2026-09-26T11:21:13.854Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "7004810",
+        "teamId": "238188",
+        "fixture": {
+          "fid": "7004810",
+          "teamId": "238188",
+          "date": "2026-09-27",
+          "time": "10:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Kiltullagh B",
+          "venue": "Kiltullagh",
+          "competition": "GFA Girls U12 Division 4",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "moved",
+        "fid": "6955980",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955980",
+          "teamId": "238128",
+          "date": "2026-10-04",
+          "time": "11:45",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Cappagh Park",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-04",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-10-04",
+          "time": "11:45"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6990775",
+        "teamId": "283766",
+        "fixture": {
+          "fid": "6990775",
+          "teamId": "283766",
+          "date": "2026-10-04",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "West Coast Utd",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U15 DIV 1& 2 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-04",
+          "time": "00:00"
+        },
+        "to": {
+          "date": "2026-10-04",
+          "time": "12:00"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6964441",
+        "teamId": "234323",
+        "fixture": {
+          "fid": "6964441",
+          "teamId": "234323",
+          "date": "2026-10-05",
+          "time": "20:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Cois Fharraige",
+          "venue": "Carraroe Astro",
+          "competition": "GFA U21 Division 1",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-07",
+          "time": "20:15"
+        },
+        "to": {
+          "date": "2026-10-05",
+          "time": "20:30"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "6950520",
+        "teamId": "235435",
+        "fixture": {
+          "fid": "6950520",
+          "teamId": "235435",
+          "date": "2026-11-28",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Tuam Celtic",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U13 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6951756",
+        "teamId": "254053",
+        "fixture": {
+          "fid": "6951756",
+          "teamId": "254053",
+          "date": "2026-11-28",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Maree/Oranmore B",
+          "venue": "Oranmore",
+          "competition": "GFA Boys U15 Division 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6972309",
+        "teamId": "380133",
+        "fixture": {
+          "fid": "6972309",
+          "teamId": "380133",
+          "date": "2026-11-28",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Kiltullagh B",
+          "venue": "Kiltullagh",
+          "competition": "GFA Boys U15 Division 4",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-25T11:47:37.235Z",
     "changes": [
       {
