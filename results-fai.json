@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T11:21:13.854Z",
+  "updatedAt": "2026-09-27T11:59:07.480Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -49,6 +49,18 @@
       "theirScore": 2,
       "venue": "",
       "competition": "Western Hygiene Supplies Mens Reserve League"
+    },
+    {
+      "fid": "fai:52005175",
+      "teamId": "fai:61270",
+      "date": "2026-09-26",
+      "isHome": true,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Moyne Villa Junior A",
+      "ourScore": 1,
+      "theirScore": 3,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League"
     }
   ]
 }

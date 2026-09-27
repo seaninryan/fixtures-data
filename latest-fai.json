@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-26T11:21:13.854Z",
+  "fetchedAt": "2026-09-27T11:59:07.480Z",
   "fixtures": [
     {
       "fid": "fai:54260979",
@@ -58,7 +58,7 @@
       "isHome": true,
       "ourTeam": "CUFC Reserves",
       "opponent": "Merlin Woods Reserve 2425",
-      "venue": "",
+      "venue": "Craughwell",
       "competition": "Western Hygiene Supplies Mens Reserve League",
       "comment": ""
     },
@@ -72,6 +72,54 @@
       "opponent": "Galway Hibernians",
       "venue": "",
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:52871802",
+      "teamId": "fai:87946",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "Salthill Devon FC Junior Reserve 26/27",
+      "venue": "",
+      "competition": "Western Hygiene Supplies Mens Reserve League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:52871808",
+      "teamId": "fai:87946",
+      "date": "2026-11-15",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "Moyne Villa Reserves",
+      "venue": "Craughwell",
+      "competition": "Western Hygiene Supplies Mens Reserve League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:52005195",
+      "teamId": "fai:61270",
+      "date": "2026-11-28",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Colga FC Mens A",
+      "venue": "",
+      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:52871813",
+      "teamId": "fai:87946",
+      "date": "2026-12-06",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "St Bernards  reserve",
+      "venue": "",
+      "competition": "Western Hygiene Supplies Mens Reserve League",
       "comment": ""
     }
   ]
