@@ -1,5 +1,62 @@
 [
   {
+    "checkedAt": "2026-09-28T13:49:03.993Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6955980",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955980",
+          "teamId": "238128",
+          "date": "2026-10-02",
+          "time": "20:15",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Cappagh Park",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-04",
+          "time": "11:45"
+        },
+        "to": {
+          "date": "2026-10-02",
+          "time": "20:15"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6952909",
+        "teamId": "300398",
+        "fixture": {
+          "fid": "6952909",
+          "teamId": "300398",
+          "date": "2026-10-04",
+          "time": "16:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Cappagh Park",
+          "competition": "GFA Boys U17 Division 1",
+          "comment": "Home KO SUN 4PM"
+        },
+        "comment": "Home KO SUN 4PM",
+        "from": {
+          "date": "2026-10-04",
+          "time": "16:00"
+        },
+        "to": {
+          "date": "2026-10-04",
+          "time": "16:30"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-26T11:21:13.854Z",
     "changes": [
       {

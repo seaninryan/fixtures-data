@@ -1,53 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-27T11:59:07.480Z",
+  "fetchedAt": "2026-09-28T13:49:03.993Z",
   "fixtures": [
     {
-      "fid": "6952183",
-      "teamId": "235325",
-      "date": "2026-09-27",
-      "time": "11:00",
+      "fid": "6955980",
+      "teamId": "238128",
+      "date": "2026-10-02",
+      "time": "20:15",
       "isHome": false,
       "ourTeam": "Craughwell United",
-      "opponent": "Kinvara Utd",
-      "venue": "Kinvara",
-      "competition": "GFA U16 Boys Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6964436",
-      "teamId": "234323",
-      "date": "2026-09-27",
-      "time": "11:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Galway Hibs",
-      "venue": "Craughwell",
-      "competition": "GFA U21 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6946490",
-      "teamId": "379931",
-      "date": "2026-09-27",
-      "time": "13:30",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Kiltullagh",
-      "venue": "Craughwell",
-      "competition": "GFA Women's Championship",
-      "comment": ""
-    },
-    {
-      "fid": "6957604",
-      "teamId": "235299",
-      "date": "2026-09-27",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Maree/Oranmore B",
-      "venue": "Oranmore",
-      "competition": "GFA Boys U18 Division 1",
+      "opponent": "Knocknacarra B",
+      "venue": "Cappagh Park",
+      "competition": "GFA Girls U18 Championship",
       "comment": ""
     },
     {
@@ -99,18 +63,6 @@
       "comment": ""
     },
     {
-      "fid": "6955980",
-      "teamId": "238128",
-      "date": "2026-10-04",
-      "time": "11:45",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Knocknacarra B",
-      "venue": "Cappagh Park",
-      "competition": "GFA Girls U18 Championship",
-      "comment": ""
-    },
-    {
       "fid": "6990775",
       "teamId": "283766",
       "date": "2026-10-04",
@@ -126,7 +78,7 @@
       "fid": "6952909",
       "teamId": "300398",
       "date": "2026-10-04",
-      "time": "16:00",
+      "time": "16:30",
       "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "Knocknacarra B",

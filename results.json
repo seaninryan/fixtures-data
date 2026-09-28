@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T11:59:07.480Z",
+  "updatedAt": "2026-09-28T13:49:03.993Z",
   "results": [
     {
       "fid": "6951014",
@@ -411,6 +411,42 @@
       "competition": "GFA Boys U14 Division 4"
     },
     {
+      "fid": "6946490",
+      "teamId": "379931",
+      "date": "2026-09-27",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Kiltullagh",
+      "ourScore": 1,
+      "theirScore": 6,
+      "venue": "Craughwell",
+      "competition": "GFA Women's Championship"
+    },
+    {
+      "fid": "6952183",
+      "teamId": "235325",
+      "date": "2026-09-27",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Kinvara Utd",
+      "ourScore": 0,
+      "theirScore": 4,
+      "venue": "Kinvara",
+      "competition": "GFA U16 Boys Division 1"
+    },
+    {
+      "fid": "6957604",
+      "teamId": "235299",
+      "date": "2026-09-27",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Maree/Oranmore B",
+      "ourScore": 2,
+      "theirScore": 3,
+      "venue": "Oranmore",
+      "competition": "GFA Boys U18 Division 1"
+    },
+    {
       "fid": "6957818",
       "teamId": "238155",
       "date": "2026-09-27",
@@ -421,6 +457,18 @@
       "theirScore": 3,
       "venue": "Headford",
       "competition": "GFA Girls U14 Division 2"
+    },
+    {
+      "fid": "6964436",
+      "teamId": "234323",
+      "date": "2026-09-27",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Galway Hibs",
+      "ourScore": 6,
+      "theirScore": 1,
+      "venue": "Craughwell",
+      "competition": "GFA U21 Division 1"
     },
     {
       "fid": "7004810",
