@@ -1,5 +1,88 @@
 [
   {
+    "checkedAt": "2026-09-30T12:30:31.184Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6982110",
+        "teamId": "235380",
+        "fixture": {
+          "fid": "6982110",
+          "teamId": "235380",
+          "date": "2026-10-10",
+          "time": "12:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Bearna Na Forbacha",
+          "venue": "Furbo",
+          "competition": "GFA Boys U14 Championship 1 Cup",
+          "comment": "Home KO Sat 12:30pm"
+        },
+        "comment": "Home KO Sat 12:30pm",
+        "from": {
+          "date": "2026-10-10",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-10-10",
+          "time": "12:30"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6990814",
+        "teamId": "238155",
+        "fixture": {
+          "fid": "6990814",
+          "teamId": "238155",
+          "date": "2026-10-11",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Tuam Celtic",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U14 Div 2 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-11",
+          "time": "00:00"
+        },
+        "to": {
+          "date": "2026-10-11",
+          "time": "12:00"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6982030",
+        "teamId": "235325",
+        "fixture": {
+          "fid": "6982030",
+          "teamId": "235325",
+          "date": "2026-10-11",
+          "time": "16:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Loughrea",
+          "venue": "Loughrea",
+          "competition": "GFA Boys U16 Division 1 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-11",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-10-11",
+          "time": "16:00"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-28T13:49:03.993Z",
     "changes": [
       {
