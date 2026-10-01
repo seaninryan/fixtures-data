@@ -1,5 +1,29 @@
 [
   {
+    "checkedAt": "2026-10-01T13:08:04.951Z",
+    "changes": [
+      {
+        "type": "comment",
+        "fid": "fai:52005193",
+        "teamId": "fai:61270",
+        "fixture": {
+          "fid": "fai:52005193",
+          "teamId": "fai:61270",
+          "date": "2026-10-18",
+          "time": "11:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United Juniors",
+          "opponent": "Athenry FC Men’s Junior A",
+          "venue": "Craughwell",
+          "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
+          "comment": "POSTPONED"
+        },
+        "from": "",
+        "to": "POSTPONED"
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-09-27T11:59:07.480Z",
     "changes": [
       {
