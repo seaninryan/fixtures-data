@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-01T13:08:04.951Z",
+  "fetchedAt": "2026-10-02T12:29:16.835Z",
   "fixtures": [
     {
       "fid": "6955980",
@@ -123,6 +123,18 @@
       "comment": ""
     },
     {
+      "fid": "6982110",
+      "teamId": "235380",
+      "date": "2026-10-10",
+      "time": "12:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Bearna Na Forbacha",
+      "venue": "Furbo",
+      "competition": "GFA Boys U14 Championship 1 Cup",
+      "comment": "Home KO Sat 12:30pm"
+    },
+    {
       "fid": "6982134",
       "teamId": "254061",
       "date": "2026-10-10",
@@ -133,18 +145,6 @@
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Division 4 Cup",
       "comment": ""
-    },
-    {
-      "fid": "6982110",
-      "teamId": "235380",
-      "date": "2026-10-10",
-      "time": "12:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Bearna Na Forbacha",
-      "venue": "Furbo",
-      "competition": "GFA Boys U14 Championship 1 Cup",
-      "comment": "Home KO Sat 12:30pm"
     },
     {
       "fid": "7004818",
