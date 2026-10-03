@@ -1,5 +1,90 @@
 [
   {
+    "checkedAt": "2026-10-03T11:36:18.587Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6988168",
+        "teamId": "380288",
+        "fixture": {
+          "fid": "6988168",
+          "teamId": "380288",
+          "date": "2026-10-10",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Colga B",
+          "venue": "Clarinbridge",
+          "competition": "GFA Boys U12 Division 3 Cup",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "cancelled",
+        "fid": "6950527",
+        "teamId": "235435",
+        "fixture": {
+          "fid": "6950527",
+          "teamId": "235435",
+          "date": "2026-10-17",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Rangers",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U13 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "moved",
+        "fid": "6982110",
+        "teamId": "235380",
+        "fixture": {
+          "fid": "6982110",
+          "teamId": "235380",
+          "date": "2026-12-05",
+          "time": "12:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Bearna Na Forbacha",
+          "venue": "Furbo",
+          "competition": "GFA Boys U14 Championship 1 Cup",
+          "comment": "Home KO Sat 12:30pm"
+        },
+        "comment": "Home KO Sat 12:30pm",
+        "from": {
+          "date": "2026-10-10",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-12-05",
+          "time": "12:30"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "7025968",
+        "teamId": "254053",
+        "fixture": {
+          "fid": "7025968",
+          "teamId": "254053",
+          "date": "2026-10-17",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA Boys U15 Division 2 Cup",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-02T12:29:16.835Z",
     "changes": [
       {

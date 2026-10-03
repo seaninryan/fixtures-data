@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T12:29:16.835Z",
+  "updatedAt": "2026-10-03T11:36:18.587Z",
   "results": [
     {
       "fid": "6951014",
@@ -481,6 +481,42 @@
       "theirScore": 3,
       "venue": "Kiltullagh",
       "competition": "GFA Girls U12 Division 4"
+    },
+    {
+      "fid": "6955980",
+      "teamId": "238128",
+      "date": "2026-10-02",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Knocknacarra B",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Cappagh Park",
+      "competition": "GFA Girls U18 Championship"
+    },
+    {
+      "fid": "6972298",
+      "teamId": "380133",
+      "date": "2026-10-03",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "St Patricks",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 4"
+    },
+    {
+      "fid": "6988168",
+      "teamId": "380288",
+      "date": "2026-10-10",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Colga B",
+      "ourScore": 0,
+      "theirScore": 3,
+      "venue": "Clarinbridge",
+      "competition": "GFA Boys U12 Division 3 Cup"
     }
   ]
 }
