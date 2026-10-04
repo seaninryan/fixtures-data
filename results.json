@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T11:36:18.587Z",
+  "updatedAt": "2026-10-04T12:17:47.712Z",
   "results": [
     {
       "fid": "6951014",
@@ -493,6 +493,30 @@
       "theirScore": 5,
       "venue": "Cappagh Park",
       "competition": "GFA Girls U18 Championship"
+    },
+    {
+      "fid": "6950510",
+      "teamId": "235435",
+      "date": "2026-10-03",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Bearna Na Forbacha",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Furbo",
+      "competition": "GFA Boys U13 Championship 1"
+    },
+    {
+      "fid": "6951744",
+      "teamId": "254053",
+      "date": "2026-10-03",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "ourScore": 1,
+      "theirScore": 6,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 2"
     },
     {
       "fid": "6972298",

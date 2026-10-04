@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-03T11:36:18.587Z",
+  "fetchedAt": "2026-10-04T12:17:47.712Z",
   "fixtures": [
-    {
-      "fid": "fai:54260979",
-      "teamId": "fai:61270",
-      "date": "2026-10-04",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United Juniors",
-      "opponent": "Ballymote Celtic FC",
-      "venue": "Craughwell",
-      "competition": "Connacht Cup 2026/27",
-      "comment": ""
-    },
-    {
-      "fid": "fai:52871791",
-      "teamId": "fai:87946",
-      "date": "2026-10-04",
-      "time": "16:00",
-      "isHome": false,
-      "ourTeam": "CUFC Reserves",
-      "opponent": "Dynamo Blues FC Reserves",
-      "venue": "",
-      "competition": "Western Hygiene Supplies Mens Reserve League",
-      "comment": ""
-    },
     {
       "fid": "fai:52005184",
       "teamId": "fai:61270",

@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-03T11:36:18.587Z",
+  "fetchedAt": "2026-10-04T12:17:47.712Z",
   "fixtures": [
-    {
-      "fid": "6951744",
-      "teamId": "254053",
-      "date": "2026-10-03",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U15 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6950510",
-      "teamId": "235435",
-      "date": "2026-10-03",
-      "time": "12:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Bearna Na Forbacha",
-      "venue": "Furbo",
-      "competition": "GFA Boys U13 Championship 1",
-      "comment": "Home KO SAT 12:30PM"
-    },
     {
       "fid": "6990903",
       "teamId": "284049",
@@ -72,18 +48,6 @@
       "opponent": "Cois Fharraige",
       "venue": "Carraroe Astro",
       "competition": "GFA U21 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6988147",
-      "teamId": "235461",
-      "date": "2026-10-10",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Salthill Devon",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U12 Premier 1 and 2 Cup",
       "comment": ""
     },
     {

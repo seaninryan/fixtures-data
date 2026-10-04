@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-10-04T12:17:47.712Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6988147",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6988147",
+          "teamId": "235461",
+          "date": "2026-10-10",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Salthill Devon",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Premier 1 and 2 Cup",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-03T11:36:18.587Z",
     "changes": [
       {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T11:36:18.587Z",
+  "updatedAt": "2026-10-04T12:17:47.712Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -61,6 +61,18 @@
       "theirScore": 3,
       "venue": "",
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League"
+    },
+    {
+      "fid": "fai:54260979",
+      "teamId": "fai:61270",
+      "date": "2026-10-04",
+      "isHome": true,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Ballymote Celtic FC",
+      "ourScore": 3,
+      "theirScore": 0,
+      "venue": "",
+      "competition": "Connacht Cup 2026/27"
     }
   ]
 }
