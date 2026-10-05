@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T12:17:47.712Z",
+  "updatedAt": "2026-10-05T14:31:30.067Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -61,6 +61,18 @@
       "theirScore": 3,
       "venue": "",
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League"
+    },
+    {
+      "fid": "fai:52871791",
+      "teamId": "fai:87946",
+      "date": "2026-10-04",
+      "isHome": false,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "Dynamo Blues FC Reserves",
+      "ourScore": 4,
+      "theirScore": 1,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Mens Reserve League"
     },
     {
       "fid": "fai:54260979",

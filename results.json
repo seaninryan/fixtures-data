@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T12:17:47.712Z",
+  "updatedAt": "2026-10-05T14:31:30.067Z",
   "results": [
     {
       "fid": "6951014",
@@ -483,6 +483,18 @@
       "competition": "GFA Girls U12 Division 4"
     },
     {
+      "fid": "7026996",
+      "teamId": "238188",
+      "date": "2026-09-27",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Kiltullagh B",
+      "ourScore": 0,
+      "theirScore": 3,
+      "venue": "Kiltullagh",
+      "competition": "GFA Girls U12 Division 4..."
+    },
+    {
       "fid": "6955980",
       "teamId": "238128",
       "date": "2026-10-02",
@@ -529,6 +541,30 @@
       "theirScore": 5,
       "venue": "Craughwell",
       "competition": "GFA Boys U15 Division 4"
+    },
+    {
+      "fid": "6952909",
+      "teamId": "300398",
+      "date": "2026-10-04",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Knocknacarra B",
+      "ourScore": 3,
+      "theirScore": 4,
+      "venue": "Cappagh Park",
+      "competition": "GFA Boys U17 Division 1"
+    },
+    {
+      "fid": "6990775",
+      "teamId": "283766",
+      "date": "2026-10-04",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "West Coast Utd",
+      "ourScore": 4,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U15 DIV 1& 2 Cup"
     },
     {
       "fid": "6988168",
