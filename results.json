@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T14:31:30.067Z",
+  "updatedAt": "2026-10-06T13:15:43.634Z",
   "results": [
     {
       "fid": "6951014",
@@ -565,6 +565,18 @@
       "theirScore": 2,
       "venue": "Craughwell",
       "competition": "GFA Girls U15 DIV 1& 2 Cup"
+    },
+    {
+      "fid": "6964441",
+      "teamId": "234323",
+      "date": "2026-10-05",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Cois Fharraige",
+      "ourScore": 4,
+      "theirScore": 5,
+      "venue": "Carraroe Astro",
+      "competition": "GFA U21 Division 1"
     },
     {
       "fid": "6988168",

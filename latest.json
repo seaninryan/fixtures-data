@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-05T14:31:30.067Z",
+  "fetchedAt": "2026-10-06T13:15:43.634Z",
   "fixtures": [
     {
       "fid": "6990903",
@@ -12,18 +12,6 @@
       "opponent": "Kinvara Utd",
       "venue": "Kinvara",
       "competition": "GFA Girls U13 Div 1 Cup",
-      "comment": ""
-    },
-    {
-      "fid": "6964441",
-      "teamId": "234323",
-      "date": "2026-10-05",
-      "time": "20:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Cois Fharraige",
-      "venue": "Carraroe Astro",
-      "competition": "GFA U21 Division 1",
       "comment": ""
     },
     {
@@ -42,7 +30,7 @@
       "fid": "7027156",
       "teamId": "238188",
       "date": "2026-10-11",
-      "time": "10:00",
+      "time": "10:30",
       "isHome": false,
       "ourTeam": "Craughwell United B",
       "opponent": "Oughterard",
