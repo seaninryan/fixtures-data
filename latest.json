@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-08T13:24:13.963Z",
+  "fetchedAt": "2026-10-09T13:12:21.167Z",
   "fixtures": [
     {
       "fid": "6990903",
@@ -111,18 +111,6 @@
       "comment": ""
     },
     {
-      "fid": "6990700",
-      "teamId": "238128",
-      "date": "2026-10-18",
-      "time": "00:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Moyne Villa",
-      "venue": "TBC",
-      "competition": "GFA Girls U18 Cup",
-      "comment": ""
-    },
-    {
       "fid": "6958000",
       "teamId": "284049",
       "date": "2026-10-18",
@@ -133,6 +121,18 @@
       "venue": "Craughwell",
       "competition": "GFA Girls U13 Division 1",
       "comment": ""
+    },
+    {
+      "fid": "6990700",
+      "teamId": "238128",
+      "date": "2026-10-18",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Moyne Villa",
+      "venue": "Craughwell",
+      "competition": "GFA Girls U18 Cup",
+      "comment": "KO moved from 2pm as agreed (8/10)"
     },
     {
       "fid": "6957194",

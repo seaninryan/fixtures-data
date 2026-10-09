@@ -1,5 +1,48 @@
 [
   {
+    "checkedAt": "2026-10-09T13:12:21.167Z",
+    "changes": [
+      {
+        "type": "venue",
+        "fid": "fai:52871799",
+        "teamId": "fai:87946",
+        "fixture": {
+          "fid": "fai:52871799",
+          "teamId": "fai:87946",
+          "date": "2026-10-18",
+          "time": "15:00",
+          "isHome": true,
+          "ourTeam": "CUFC Reserves",
+          "opponent": "Merlin Woods Reserve 2425",
+          "venue": "Kiltullagh,",
+          "competition": "Western Hygiene Supplies Mens Reserve League",
+          "comment": ""
+        },
+        "comment": "",
+        "from": "Craughwell",
+        "to": "Kiltullagh,"
+      },
+      {
+        "type": "added",
+        "fid": "fai:56027680",
+        "teamId": "fai:61270",
+        "fixture": {
+          "fid": "fai:56027680",
+          "teamId": "fai:61270",
+          "date": "2026-11-01",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United Juniors",
+          "opponent": "St Bernards Junior",
+          "venue": "",
+          "competition": "Connacht Cup 2026/27",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-01T13:08:04.951Z",
     "changes": [
       {

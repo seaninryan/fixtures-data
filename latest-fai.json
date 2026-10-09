@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-08T13:24:13.963Z",
+  "fetchedAt": "2026-10-09T13:12:21.167Z",
   "fixtures": [
     {
       "fid": "fai:52005184",
@@ -34,7 +34,7 @@
       "isHome": true,
       "ourTeam": "CUFC Reserves",
       "opponent": "Merlin Woods Reserve 2425",
-      "venue": "Craughwell",
+      "venue": "Kiltullagh,",
       "competition": "Western Hygiene Supplies Mens Reserve League",
       "comment": ""
     },
@@ -60,6 +60,18 @@
       "opponent": "Salthill Devon FC Junior Reserve 26/27",
       "venue": "",
       "competition": "Western Hygiene Supplies Mens Reserve League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:56027680",
+      "teamId": "fai:61270",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "St Bernards Junior",
+      "venue": "",
+      "competition": "Connacht Cup 2026/27",
       "comment": ""
     },
     {
