@@ -1,5 +1,36 @@
 [
   {
+    "checkedAt": "2026-10-10T12:27:23.392Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6952187",
+        "teamId": "235325",
+        "fixture": {
+          "fid": "6952187",
+          "teamId": "235325",
+          "date": "2026-10-17",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Bearna Na Forbacha",
+          "venue": "Craughwell",
+          "competition": "GFA U16 Boys Division 1",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-25",
+          "time": "11:00"
+        },
+        "to": {
+          "date": "2026-10-17",
+          "time": "14:00"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-09T13:12:21.167Z",
     "changes": [
       {

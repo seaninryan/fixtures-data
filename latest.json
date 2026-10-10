@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-09T13:12:21.167Z",
+  "fetchedAt": "2026-10-10T12:27:23.392Z",
   "fixtures": [
     {
       "fid": "6990903",
@@ -96,6 +96,18 @@
       "opponent": "Colemanstown Utd",
       "venue": "Colemanstown",
       "competition": "GFA Boys U15 Division 2 Cup",
+      "comment": ""
+    },
+    {
+      "fid": "6952187",
+      "teamId": "235325",
+      "date": "2026-10-17",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Bearna Na Forbacha",
+      "venue": "Craughwell",
+      "competition": "GFA U16 Boys Division 1",
       "comment": ""
     },
     {
@@ -228,18 +240,6 @@
       "opponent": "Kilshanvey Utd",
       "venue": "Craughwell",
       "competition": "GFA Girls U12 Division 4...",
-      "comment": ""
-    },
-    {
-      "fid": "6952187",
-      "teamId": "235325",
-      "date": "2026-10-25",
-      "time": "11:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Bearna Na Forbacha",
-      "venue": "Craughwell",
-      "competition": "GFA U16 Boys Division 1",
       "comment": ""
     },
     {
