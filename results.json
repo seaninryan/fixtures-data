@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T12:27:23.392Z",
+  "updatedAt": "2026-10-11T12:44:55.114Z",
   "results": [
     {
       "fid": "6951014",
@@ -577,6 +577,18 @@
       "theirScore": 5,
       "venue": "Carraroe Astro",
       "competition": "GFA U21 Division 1"
+    },
+    {
+      "fid": "6982134",
+      "teamId": "254061",
+      "date": "2026-10-10",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Knocknacarra D",
+      "ourScore": 3,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U14 Division 4 Cup"
     },
     {
       "fid": "6988168",

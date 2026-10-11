@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-10T12:27:23.392Z",
+  "fetchedAt": "2026-10-11T12:44:55.114Z",
   "fixtures": [
     {
       "fid": "6990903",
@@ -15,15 +15,15 @@
       "comment": ""
     },
     {
-      "fid": "6982134",
-      "teamId": "254061",
+      "fid": "6988147",
+      "teamId": "235461",
       "date": "2026-10-10",
-      "time": "12:00",
+      "time": "10:00",
       "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Knocknacarra D",
+      "ourTeam": "Craughwell United",
+      "opponent": "Salthill Devon",
       "venue": "Craughwell",
-      "competition": "GFA Boys U14 Division 4 Cup",
+      "competition": "GFA Boys U12 Premier 1 and 2 Cup",
       "comment": ""
     },
     {
@@ -783,6 +783,18 @@
       "comment": ""
     },
     {
+      "fid": "7030719",
+      "teamId": "254061",
+      "date": "2026-12-05",
+      "time": "12:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Salthill Devon C",
+      "venue": "NFP Park, Drom",
+      "competition": "GFA Boys U14 Division 4 Cup",
+      "comment": ""
+    },
+    {
       "fid": "6982110",
       "teamId": "235380",
       "date": "2026-12-05",
@@ -828,6 +840,18 @@
       "opponent": "Renmore",
       "venue": "Renmore",
       "competition": "GFA U21 Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6946095",
+      "teamId": "235461",
+      "date": "2026-12-19",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Moyne Villa",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U12 Premier 2",
       "comment": ""
     },
     {

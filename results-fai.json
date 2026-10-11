@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T12:27:23.392Z",
+  "updatedAt": "2026-10-11T12:44:55.114Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -85,6 +85,18 @@
       "theirScore": 0,
       "venue": "",
       "competition": "Connacht Cup 2026/27"
+    },
+    {
+      "fid": "fai:52005184",
+      "teamId": "fai:61270",
+      "date": "2026-10-10",
+      "isHome": false,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "St Bernards Junior",
+      "ourScore": 1,
+      "theirScore": 4,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League"
     }
   ]
 }
