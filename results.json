@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T12:44:55.114Z",
+  "updatedAt": "2026-10-12T15:17:12.727Z",
   "results": [
     {
       "fid": "6951014",
@@ -601,6 +601,66 @@
       "theirScore": 3,
       "venue": "Clarinbridge",
       "competition": "GFA Boys U12 Division 3 Cup"
+    },
+    {
+      "fid": "6981155",
+      "teamId": "235299",
+      "date": "2026-10-11",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "East Galway Utd",
+      "ourScore": 1,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1 Cup"
+    },
+    {
+      "fid": "6982030",
+      "teamId": "235325",
+      "date": "2026-10-11",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Loughrea",
+      "ourScore": 1,
+      "theirScore": 3,
+      "venue": "Loughrea",
+      "competition": "GFA Boys U16 Division 1 Cup"
+    },
+    {
+      "fid": "6990669",
+      "teamId": "379931",
+      "date": "2026-10-11",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "West Utd",
+      "ourScore": 5,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA Women's Championship & Div 1 Cup"
+    },
+    {
+      "fid": "6990814",
+      "teamId": "238155",
+      "date": "2026-10-11",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Tuam Celtic",
+      "ourScore": 4,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U14 Div 2 Cup"
+    },
+    {
+      "fid": "7027156",
+      "teamId": "238188",
+      "date": "2026-10-11",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Oughterard",
+      "ourScore": 3,
+      "theirScore": 3,
+      "venue": "New Village",
+      "competition": "GFA Girls U12 Division 4..."
     }
   ]
 }

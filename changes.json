@@ -1,5 +1,154 @@
 [
   {
+    "checkedAt": "2026-10-12T15:17:12.727Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6952187",
+        "teamId": "235325",
+        "fixture": {
+          "fid": "6952187",
+          "teamId": "235325",
+          "date": "2026-10-17",
+          "time": "11:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Bearna Na Forbacha",
+          "venue": "Craughwell",
+          "competition": "GFA U16 Boys Division 1",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-17",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-10-17",
+          "time": "11:30"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6988147",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6988147",
+          "teamId": "235461",
+          "date": "2026-12-05",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Salthill Devon",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Premier 1 and 2 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-10",
+          "time": "10:00"
+        },
+        "to": {
+          "date": "2026-12-05",
+          "time": "10:00"
+        }
+      },
+      {
+        "type": "venue",
+        "fid": "6946086",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946086",
+          "teamId": "235461",
+          "date": "2026-10-24",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Maree Astro Pitch (9 a side)",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": "Note Venue"
+        },
+        "comment": "Note Venue",
+        "from": "Renmore",
+        "to": "Maree Astro Pitch (9 a side)"
+      },
+      {
+        "type": "added",
+        "fid": "7031171",
+        "teamId": "238155",
+        "fixture": {
+          "fid": "7031171",
+          "teamId": "238155",
+          "date": "2026-11-22",
+          "time": "00:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Athenry B",
+          "venue": "TBC",
+          "competition": "GFA Girls U14 Div 2 Cup",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6948836",
+        "teamId": "380288",
+        "fixture": {
+          "fid": "6948836",
+          "teamId": "380288",
+          "date": "2026-12-05",
+          "time": "15:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "St Bernards B",
+          "venue": "Abbeyknockmoy",
+          "competition": "GFA Boys U12 Division 3",
+          "comment": "Home KO SAT 3PM"
+        },
+        "comment": "Home KO SAT 3PM"
+      },
+      {
+        "type": "added",
+        "fid": "7031236",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "7031236",
+          "teamId": "379931",
+          "date": "2026-12-06",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Ballinasloe Town",
+          "venue": "TBC",
+          "competition": "GFA Women's Championship & Div 1 Cup",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6948819",
+        "teamId": "380288",
+        "fixture": {
+          "fid": "6948819",
+          "teamId": "380288",
+          "date": "2026-12-19",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Ballinasloe Town B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Division 3",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-11T12:44:55.114Z",
     "changes": [
       {
