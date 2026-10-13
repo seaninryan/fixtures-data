@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T15:17:12.727Z",
+  "updatedAt": "2026-10-13T14:07:10.960Z",
   "results": [
     {
       "fid": "6951014",
@@ -565,6 +565,18 @@
       "theirScore": 2,
       "venue": "Craughwell",
       "competition": "GFA Girls U15 DIV 1& 2 Cup"
+    },
+    {
+      "fid": "6990903",
+      "teamId": "284049",
+      "date": "2026-10-04",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Kinvara Utd",
+      "ourScore": 7,
+      "theirScore": 3,
+      "venue": "Kinvara",
+      "competition": "GFA Girls U13 Div 1 Cup"
     },
     {
       "fid": "6964441",
