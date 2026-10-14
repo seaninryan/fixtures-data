@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-13T14:07:10.960Z",
+  "fetchedAt": "2026-10-14T11:47:14.208Z",
   "fixtures": [
     {
       "fid": "6952187",
@@ -15,18 +15,6 @@
       "comment": ""
     },
     {
-      "fid": "7025968",
-      "teamId": "254053",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Boys U15 Division 2 Cup",
-      "comment": ""
-    },
-    {
       "fid": "6991943",
       "teamId": "380133",
       "date": "2026-10-17",
@@ -36,6 +24,18 @@
       "opponent": "MacDara B",
       "venue": "Carraroe Astro",
       "competition": "GFA Boys U15 Division 4 Cup",
+      "comment": ""
+    },
+    {
+      "fid": "7025968",
+      "teamId": "254053",
+      "date": "2026-10-17",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "venue": "Colemanstown",
+      "competition": "GFA Boys U15 Division 2 Cup",
       "comment": ""
     },
     {
@@ -795,6 +795,18 @@
       "comment": ""
     },
     {
+      "fid": "6957634",
+      "teamId": "235299",
+      "date": "2026-12-06",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Galway Bohs",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1",
+      "comment": ""
+    },
+    {
       "fid": "7031236",
       "teamId": "379931",
       "date": "2026-12-06",
@@ -888,6 +900,18 @@
       "opponent": "Salthill Devon B",
       "venue": "NFP Park, Drom",
       "competition": "GFA U16 Boys Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6957619",
+      "teamId": "235299",
+      "date": "2026-12-20",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Renmore",
+      "venue": "Renmore",
+      "competition": "GFA Boys U18 Division 1",
       "comment": ""
     },
     {
