@@ -1,5 +1,54 @@
 [
   {
+    "checkedAt": "2026-10-16T11:18:24.581Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6951316",
+        "teamId": "254061",
+        "fixture": {
+          "fid": "6951316",
+          "teamId": "254061",
+          "date": "2026-10-24",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Oughterard C",
+          "venue": "New Village",
+          "competition": "GFA Boys U14 Division 4",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-24",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-10-24",
+          "time": "14:00"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "6952926",
+        "teamId": "300398",
+        "fixture": {
+          "fid": "6952926",
+          "teamId": "300398",
+          "date": "2026-12-13",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Moyne Villa B",
+          "venue": "Headford",
+          "competition": "GFA Boys U17 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-14T11:47:14.208Z",
     "changes": [
       {
