@@ -1,5 +1,54 @@
 [
   {
+    "checkedAt": "2026-10-17T10:38:38.117Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6990700",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6990700",
+          "teamId": "238128",
+          "date": "2026-10-18",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Moyne Villa",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U18 Cup",
+          "comment": "KO moved from 2pm as agreed (8/10)"
+        },
+        "comment": "KO moved from 2pm as agreed (8/10)"
+      },
+      {
+        "type": "moved",
+        "fid": "7025968",
+        "teamId": "254053",
+        "fixture": {
+          "fid": "7025968",
+          "teamId": "254053",
+          "date": "2026-10-17",
+          "time": "15:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA Boys U15 Division 2 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-10-17",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-10-17",
+          "time": "15:00"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-16T11:18:24.581Z",
     "changes": [
       {

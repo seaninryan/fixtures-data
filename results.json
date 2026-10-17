@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T11:18:24.581Z",
+  "updatedAt": "2026-10-17T10:38:38.117Z",
   "results": [
     {
       "fid": "6951014",
@@ -673,6 +673,18 @@
       "theirScore": 3,
       "venue": "New Village",
       "competition": "GFA Girls U12 Division 4..."
+    },
+    {
+      "fid": "6990700",
+      "teamId": "238128",
+      "date": "2026-10-18",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Moyne Villa",
+      "ourScore": 0,
+      "theirScore": 3,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U18 Cup"
     }
   ]
 }

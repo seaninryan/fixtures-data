@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-16T11:18:24.581Z",
+  "fetchedAt": "2026-10-17T10:38:38.117Z",
   "fixtures": [
     {
       "fid": "6952187",
@@ -30,7 +30,7 @@
       "fid": "7025968",
       "teamId": "254053",
       "date": "2026-10-17",
-      "time": "14:00",
+      "time": "15:00",
       "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "Colemanstown Utd",
@@ -49,18 +49,6 @@
       "venue": "Craughwell",
       "competition": "GFA Girls U13 Division 1",
       "comment": ""
-    },
-    {
-      "fid": "6990700",
-      "teamId": "238128",
-      "date": "2026-10-18",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Moyne Villa",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U18 Cup",
-      "comment": "KO moved from 2pm as agreed (8/10)"
     },
     {
       "fid": "6957194",
