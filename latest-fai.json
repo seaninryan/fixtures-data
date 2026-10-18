@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-17T10:38:38.117Z",
+  "fetchedAt": "2026-10-18T10:59:40.043Z",
   "fixtures": [
-    {
-      "fid": "fai:52871799",
-      "teamId": "fai:87946",
-      "date": "2026-10-18",
-      "time": "15:00",
-      "isHome": true,
-      "ourTeam": "CUFC Reserves",
-      "opponent": "Merlin Woods Reserve 2425",
-      "venue": "Kiltullagh,",
-      "competition": "Western Hygiene Supplies Mens Reserve League",
-      "comment": ""
-    },
     {
       "fid": "fai:52005183",
       "teamId": "fai:61270",
