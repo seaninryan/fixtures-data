@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T10:59:40.043Z",
+  "updatedAt": "2026-10-19T13:06:48.021Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -97,6 +97,18 @@
       "theirScore": 4,
       "venue": "",
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League"
+    },
+    {
+      "fid": "fai:52871799",
+      "teamId": "fai:87946",
+      "date": "2026-10-18",
+      "isHome": true,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "Merlin Woods Reserve 2425",
+      "ourScore": 6,
+      "theirScore": 1,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Mens Reserve League"
     }
   ]
 }

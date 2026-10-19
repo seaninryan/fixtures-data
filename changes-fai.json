@@ -1,5 +1,36 @@
 [
   {
+    "checkedAt": "2026-10-19T13:06:48.021Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "fai:56027680",
+        "teamId": "fai:61270",
+        "fixture": {
+          "fid": "fai:56027680",
+          "teamId": "fai:61270",
+          "date": "2026-11-01",
+          "time": "11:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United Juniors",
+          "opponent": "St Bernards Junior",
+          "venue": "",
+          "competition": "Connacht Cup 2026/27",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-01",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-11-01",
+          "time": "11:00"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-10T12:27:23.392Z",
     "changes": [
       {

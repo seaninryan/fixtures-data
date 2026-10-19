@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T10:59:40.043Z",
+  "updatedAt": "2026-10-19T13:06:48.021Z",
   "results": [
     {
       "fid": "6951014",
@@ -687,6 +687,18 @@
       "competition": "GFA U16 Boys Division 1"
     },
     {
+      "fid": "6991943",
+      "teamId": "380133",
+      "date": "2026-10-17",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "MacDara B",
+      "ourScore": 0,
+      "theirScore": 3,
+      "venue": "Carraroe Astro",
+      "competition": "GFA Boys U15 Division 4 Cup"
+    },
+    {
       "fid": "7025968",
       "teamId": "254053",
       "date": "2026-10-17",
@@ -697,6 +709,42 @@
       "theirScore": 7,
       "venue": "Colemanstown",
       "competition": "GFA Boys U15 Division 2 Cup"
+    },
+    {
+      "fid": "6957194",
+      "teamId": "283766",
+      "date": "2026-10-18",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Salthill Devon B",
+      "ourScore": 1,
+      "theirScore": 5,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U15 Division 1"
+    },
+    {
+      "fid": "6958000",
+      "teamId": "284049",
+      "date": "2026-10-18",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Tuam Celtic",
+      "ourScore": 2,
+      "theirScore": 5,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U13 Division 1"
+    },
+    {
+      "fid": "6982003",
+      "teamId": "300398",
+      "date": "2026-10-18",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Moyne Villa B",
+      "ourScore": 3,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U17 Division 1 Cup"
     },
     {
       "fid": "6990700",
