@@ -1,5 +1,112 @@
 [
   {
+    "checkedAt": "2026-10-21T11:43:58.394Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6958965",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958965",
+          "teamId": "238174",
+          "date": "2026-10-25",
+          "time": "11:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Tuam Celtic",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "cancelled",
+        "fid": "6955986",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955986",
+          "teamId": "238128",
+          "date": "2026-11-01",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Gort Utd",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "moved",
+        "fid": "6964451",
+        "teamId": "234323",
+        "fixture": {
+          "fid": "6964451",
+          "teamId": "234323",
+          "date": "2026-11-03",
+          "time": "20:15",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Tuam Astro",
+          "competition": "GFA U21 Division 1",
+          "comment": "Note Venue"
+        },
+        "comment": "Note Venue",
+        "from": {
+          "date": "2026-11-04",
+          "time": "20:15"
+        },
+        "to": {
+          "date": "2026-11-03",
+          "time": "20:15"
+        }
+      },
+      {
+        "type": "venue",
+        "fid": "6946086",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946086",
+          "teamId": "235461",
+          "date": "2026-10-24",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Oranmore All Weather",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": "Note Venue"
+        },
+        "comment": "Note Venue",
+        "from": "Maree Astro Pitch (9 a side)",
+        "to": "Oranmore All Weather"
+      },
+      {
+        "type": "venue",
+        "fid": "6964451",
+        "teamId": "234323",
+        "fixture": {
+          "fid": "6964451",
+          "teamId": "234323",
+          "date": "2026-11-03",
+          "time": "20:15",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Knocknacarra B",
+          "venue": "Tuam Astro",
+          "competition": "GFA U21 Division 1",
+          "comment": "Note Venue"
+        },
+        "comment": "Note Venue",
+        "from": "Craughwell",
+        "to": "Tuam Astro"
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-19T13:06:48.021Z",
     "changes": [
       {
