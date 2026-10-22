@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-21T11:43:58.394Z",
+  "fetchedAt": "2026-10-22T11:46:48.543Z",
   "fixtures": [
     {
       "fid": "6946086",
@@ -46,7 +46,7 @@
       "isHome": false,
       "ourTeam": "Craughwell United B",
       "opponent": "Oughterard C",
-      "venue": "New Village",
+      "venue": "New Village Astro",
       "competition": "GFA Boys U14 Division 4",
       "comment": ""
     },
@@ -864,6 +864,18 @@
       "opponent": "Oughterard",
       "venue": "New Village",
       "competition": "GFA Women's Championship",
+      "comment": ""
+    },
+    {
+      "fid": "6994459",
+      "teamId": "234323",
+      "date": "2027-01-06",
+      "time": "20:15",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Galway Hibs",
+      "venue": "TBC",
+      "competition": "GFA U21 Division 1 Cup",
       "comment": ""
     },
     {
