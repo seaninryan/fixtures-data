@@ -1,55 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-23T11:33:48.920Z",
+  "fetchedAt": "2026-10-24T10:54:08.501Z",
   "fixtures": [
-    {
-      "fid": "6946086",
-      "teamId": "235461",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Renmore",
-      "venue": "Oranmore All Weather",
-      "competition": "GFA Boys U12 Premier 2",
-      "comment": "Note Venue"
-    },
-    {
-      "fid": "6948808",
-      "teamId": "380288",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "St Bernards B",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U12 Division 3",
-      "comment": ""
-    },
-    {
-      "fid": "6951030",
-      "teamId": "235380",
-      "date": "2026-10-24",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Corrib Celtic",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U14 Championship 1",
-      "comment": ""
-    },
-    {
-      "fid": "6951316",
-      "teamId": "254061",
-      "date": "2026-10-24",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Oughterard C",
-      "venue": "New Village Astro",
-      "competition": "GFA Boys U14 Division 4",
-      "comment": ""
-    },
     {
       "fid": "7027160",
       "teamId": "238188",

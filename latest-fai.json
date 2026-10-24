@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-23T11:33:48.920Z",
+  "fetchedAt": "2026-10-24T10:54:08.501Z",
   "fixtures": [
-    {
-      "fid": "fai:52005183",
-      "teamId": "fai:61270",
-      "date": "2026-10-24",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United Juniors",
-      "opponent": "Galway Hibernians",
-      "venue": "",
-      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
-      "comment": ""
-    },
     {
       "fid": "fai:56027680",
       "teamId": "fai:61270",
