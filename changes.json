@@ -1,5 +1,64 @@
 [
   {
+    "checkedAt": "2026-10-26T12:55:23.349Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6950512",
+        "teamId": "235435",
+        "fixture": {
+          "fid": "6950512",
+          "teamId": "235435",
+          "date": "2026-10-31",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Rangers",
+          "venue": "Westside",
+          "competition": "GFA Boys U13 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946086",
+        "teamId": "235461",
+        "fixture": {
+          "fid": "6946086",
+          "teamId": "235461",
+          "date": "2027-01-09",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Renmore",
+          "competition": "GFA Boys U12 Premier 2",
+          "comment": "Note Venue"
+        },
+        "comment": "Note Venue"
+      },
+      {
+        "type": "added",
+        "fid": "6948808",
+        "teamId": "380288",
+        "fixture": {
+          "fid": "6948808",
+          "teamId": "380288",
+          "date": "2027-01-09",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United B",
+          "opponent": "St Bernards B",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U12 Division 3",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-23T11:33:48.920Z",
     "changes": [
       {

@@ -1,55 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-25T11:20:58.886Z",
+  "fetchedAt": "2026-10-26T12:55:23.349Z",
   "fixtures": [
-    {
-      "fid": "7027160",
-      "teamId": "238188",
-      "date": "2026-10-25",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Kilshanvey Utd",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U12 Division 4...",
-      "comment": ""
-    },
-    {
-      "fid": "6957822",
-      "teamId": "238155",
-      "date": "2026-10-25",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Athenry B",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U14 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6957606",
-      "teamId": "235299",
-      "date": "2026-10-25",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Galway Bohs",
-      "venue": "Millers Lane",
-      "competition": "GFA Boys U18 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6950512",
-      "teamId": "235435",
-      "date": "2026-10-31",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Corrib Rangers",
-      "venue": "Westside",
-      "competition": "GFA Boys U13 Championship 1",
-      "comment": ""
-    },
     {
       "fid": "6951752",
       "teamId": "254053",
@@ -864,6 +816,30 @@
       "opponent": "Galway Hibs",
       "venue": "TBC",
       "competition": "GFA U21 Division 1 Cup",
+      "comment": ""
+    },
+    {
+      "fid": "6946086",
+      "teamId": "235461",
+      "date": "2027-01-09",
+      "time": "10:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Renmore",
+      "venue": "Renmore",
+      "competition": "GFA Boys U12 Premier 2",
+      "comment": "Note Venue"
+    },
+    {
+      "fid": "6948808",
+      "teamId": "380288",
+      "date": "2027-01-09",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "St Bernards B",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U12 Division 3",
       "comment": ""
     },
     {
