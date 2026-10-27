@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-10-27T12:06:01.914Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6951030",
+        "teamId": "235380",
+        "fixture": {
+          "fid": "6951030",
+          "teamId": "235380",
+          "date": "2027-01-09",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Celtic",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U14 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-26T12:55:23.349Z",
     "changes": [
       {
