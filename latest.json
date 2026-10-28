@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-27T12:06:01.914Z",
+  "fetchedAt": "2026-10-28T12:47:28.937Z",
   "fixtures": [
     {
       "fid": "6951752",
@@ -22,7 +22,7 @@
       "isHome": false,
       "ourTeam": "Craughwell United B",
       "opponent": "Oughterard B",
-      "venue": "New Village",
+      "venue": "New Village Astro",
       "competition": "GFA Boys U15 Division 4",
       "comment": ""
     },
@@ -216,6 +216,18 @@
       "opponent": "Cregmore/Claregalway",
       "venue": "Craughwell",
       "competition": "GFA Boys U13 Championship 1",
+      "comment": ""
+    },
+    {
+      "fid": "6972319",
+      "teamId": "380133",
+      "date": "2026-11-14",
+      "time": "12:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Tuam Celtic B",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U15 Division 4",
       "comment": ""
     },
     {
@@ -852,6 +864,18 @@
       "opponent": "Corrib Celtic",
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Championship 1",
+      "comment": ""
+    },
+    {
+      "fid": "6951316",
+      "teamId": "254061",
+      "date": "2027-01-09",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Oughterard C",
+      "venue": "New Village Astro",
+      "competition": "GFA Boys U14 Division 4",
       "comment": ""
     },
     {
