@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-28T12:47:28.937Z",
+  "fetchedAt": "2026-10-29T12:56:10.375Z",
   "fixtures": [
     {
       "fid": "6951752",
@@ -132,18 +132,6 @@
       "opponent": "Knocknacarra D",
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Division 4",
-      "comment": ""
-    },
-    {
-      "fid": "6958966",
-      "teamId": "238174",
-      "date": "2026-11-08",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Renmore",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U12 Division 1",
       "comment": ""
     },
     {

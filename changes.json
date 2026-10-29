@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-10-29T12:56:10.375Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6958966",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958966",
+          "teamId": "238174",
+          "date": "2026-11-08",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-28T12:47:28.937Z",
     "changes": [
       {
