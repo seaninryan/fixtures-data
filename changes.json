@@ -1,5 +1,46 @@
 [
   {
+    "checkedAt": "2026-10-30T12:49:01.530Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6957622",
+        "teamId": "235299",
+        "fixture": {
+          "fid": "6957622",
+          "teamId": "235299",
+          "date": "2027-01-10",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U18 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6952928",
+        "teamId": "300398",
+        "fixture": {
+          "fid": "6952928",
+          "teamId": "300398",
+          "date": "2027-01-17",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Ballinasloe Town",
+          "venue": "Craughwell",
+          "competition": "GFA Boys U17 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-29T12:56:10.375Z",
     "changes": [
       {
