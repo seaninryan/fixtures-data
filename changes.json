@@ -1,5 +1,90 @@
 [
   {
+    "checkedAt": "2026-11-01T13:16:33.577Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6957826",
+        "teamId": "238155",
+        "fixture": {
+          "fid": "6957826",
+          "teamId": "238155",
+          "date": "2026-11-08",
+          "time": "11:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Salthill Devon C",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U14 Division 2",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-08",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-11-08",
+          "time": "11:30"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "6950512",
+        "teamId": "235435",
+        "fixture": {
+          "fid": "6950512",
+          "teamId": "235435",
+          "date": "2027-01-16",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Rangers",
+          "venue": "Westside",
+          "competition": "GFA Boys U13 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6951764",
+        "teamId": "254053",
+        "fixture": {
+          "fid": "6951764",
+          "teamId": "254053",
+          "date": "2027-01-16",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Moyne Villa B",
+          "venue": "Headford",
+          "competition": "GFA Boys U15 Division 2",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6972322",
+        "teamId": "380133",
+        "fixture": {
+          "fid": "6972322",
+          "teamId": "380133",
+          "date": "2027-01-16",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "Kinvara Utd B",
+          "venue": "Kinvara",
+          "competition": "GFA Boys U15 Division 4",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-30T12:49:01.530Z",
     "changes": [
       {

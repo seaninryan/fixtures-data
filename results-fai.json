@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:20:30.593Z",
+  "updatedAt": "2026-11-01T13:16:33.577Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -109,6 +109,18 @@
       "theirScore": 1,
       "venue": "",
       "competition": "Western Hygiene Supplies Mens Reserve League"
+    },
+    {
+      "fid": "fai:56027680",
+      "teamId": "fai:61270",
+      "date": "2026-11-01",
+      "isHome": false,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "St Bernards Junior",
+      "ourScore": 3,
+      "theirScore": 4,
+      "venue": "",
+      "competition": "Connacht Cup 2026/27"
     }
   ]
 }
