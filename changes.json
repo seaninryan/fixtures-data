@@ -1,5 +1,138 @@
 [
   {
+    "checkedAt": "2026-11-02T15:43:21.858Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6956004",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6956004",
+          "teamId": "238128",
+          "date": "2026-11-29",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "West Utd",
+          "venue": "South Park",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "moved",
+        "fid": "7032350",
+        "teamId": "284049",
+        "fixture": {
+          "fid": "7032350",
+          "teamId": "284049",
+          "date": "2026-11-29",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Tuam Celtic",
+          "venue": "Tuam",
+          "competition": "GFA Girls U13 Div 1 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-29",
+          "time": "00:00"
+        },
+        "to": {
+          "date": "2026-11-29",
+          "time": "10:00"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "7026940",
+        "teamId": "283766",
+        "fixture": {
+          "fid": "7026940",
+          "teamId": "283766",
+          "date": "2026-11-29",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Moyne Villa B",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U15 DIV 1& 2 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-29",
+          "time": "00:00"
+        },
+        "to": {
+          "date": "2026-11-29",
+          "time": "12:00"
+        }
+      },
+      {
+        "type": "venue",
+        "fid": "7032350",
+        "teamId": "284049",
+        "fixture": {
+          "fid": "7032350",
+          "teamId": "284049",
+          "date": "2026-11-29",
+          "time": "10:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Tuam Celtic",
+          "venue": "Tuam",
+          "competition": "GFA Girls U13 Div 1 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": "TBC",
+        "to": "Tuam"
+      },
+      {
+        "type": "venue",
+        "fid": "7026940",
+        "teamId": "283766",
+        "fixture": {
+          "fid": "7026940",
+          "teamId": "283766",
+          "date": "2026-11-29",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Moyne Villa B",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U15 DIV 1& 2 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": "TBC",
+        "to": "Craughwell"
+      },
+      {
+        "type": "added",
+        "fid": "7035325",
+        "teamId": "234323",
+        "fixture": {
+          "fid": "7035325",
+          "teamId": "234323",
+          "date": "2026-11-14",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Mervue Utd",
+          "venue": "Craughwell",
+          "competition": "FAI Junior Cup",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-01T13:16:33.577Z",
     "changes": [
       {

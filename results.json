@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T13:16:33.577Z",
+  "updatedAt": "2026-11-02T15:43:21.858Z",
   "results": [
     {
       "fid": "6951014",
@@ -819,6 +819,30 @@
       "competition": "GFA Boys U15 Division 4"
     },
     {
+      "fid": "6952914",
+      "teamId": "300398",
+      "date": "2026-11-01",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Athenry B",
+      "ourScore": 5,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U17 Division 1"
+    },
+    {
+      "fid": "6955986",
+      "teamId": "238128",
+      "date": "2026-11-01",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Gort Utd",
+      "ourScore": 5,
+      "theirScore": 0,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U18 Championship"
+    },
+    {
       "fid": "6957198",
       "teamId": "283766",
       "date": "2026-11-01",
@@ -829,6 +853,18 @@
       "theirScore": 1,
       "venue": "Athenry",
       "competition": "GFA Girls U15 Division 1"
+    },
+    {
+      "fid": "6958005",
+      "teamId": "284049",
+      "date": "2026-11-01",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Knocknacarra B",
+      "ourScore": 1,
+      "theirScore": 5,
+      "venue": "Cappagh Park",
+      "competition": "GFA Girls U13 Division 1"
     }
   ]
 }
