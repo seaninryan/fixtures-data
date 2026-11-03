@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T15:43:21.858Z",
+  "updatedAt": "2026-11-03T14:06:35.490Z",
   "results": [
     {
       "fid": "6951014",
@@ -837,8 +837,8 @@
       "isHome": true,
       "ourTeam": "Craughwell United",
       "opponent": "Gort Utd",
-      "ourScore": 5,
-      "theirScore": 0,
+      "ourScore": 1,
+      "theirScore": 7,
       "venue": "Craughwell",
       "competition": "GFA Girls U18 Championship"
     },
