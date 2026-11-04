@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-03T14:06:35.490Z",
+  "fetchedAt": "2026-11-04T14:27:37.044Z",
   "fixtures": [
     {
       "fid": "6964451",
@@ -22,7 +22,7 @@
       "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "Oughterard",
-      "venue": "New Village",
+      "venue": "New Village Astro",
       "competition": "GFA Boys U12 Premier 2",
       "comment": ""
     },
@@ -217,6 +217,18 @@
       "venue": "NFP Park, Drom",
       "competition": "GFA U21 Division 1",
       "comment": "Home KO WED 8:30PM"
+    },
+    {
+      "fid": "7039368",
+      "teamId": "379931",
+      "date": "2026-11-21",
+      "time": "00:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Yeats Utd",
+      "venue": "TBC",
+      "competition": "Womens Connacht Cup",
+      "comment": "Prelim Rd"
     },
     {
       "fid": "6946092",

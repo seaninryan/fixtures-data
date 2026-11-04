@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-03T14:06:35.490Z",
+  "fetchedAt": "2026-11-04T14:27:37.044Z",
   "fixtures": [
     {
       "fid": "fai:52871808",
@@ -12,6 +12,18 @@
       "opponent": "Moyne Villa Reserves",
       "venue": "Craughwell",
       "competition": "Western Hygiene Supplies Mens Reserve League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:57475667",
+      "teamId": "fai:81046",
+      "date": "2026-11-21",
+      "time": "14:30",
+      "isHome": false,
+      "ourTeam": "Craughwell United Ladies",
+      "opponent": "Yeats United WFC",
+      "venue": "",
+      "competition": "Prelim Women's Connacht Cup 26/27",
       "comment": ""
     },
     {

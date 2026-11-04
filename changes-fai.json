@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-11-04T14:27:37.044Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "fai:57475667",
+        "teamId": "fai:81046",
+        "fixture": {
+          "fid": "fai:57475667",
+          "teamId": "fai:81046",
+          "date": "2026-11-21",
+          "time": "14:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United Ladies",
+          "opponent": "Yeats United WFC",
+          "venue": "",
+          "competition": "Prelim Women's Connacht Cup 26/27",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-10-19T13:06:48.021Z",
     "changes": [
       {
