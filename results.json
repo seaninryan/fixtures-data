@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T14:27:37.044Z",
+  "updatedAt": "2026-11-05T14:35:10.850Z",
   "results": [
     {
       "fid": "6951014",
@@ -865,6 +865,18 @@
       "theirScore": 5,
       "venue": "Cappagh Park",
       "competition": "GFA Girls U13 Division 1"
+    },
+    {
+      "fid": "6964451",
+      "teamId": "234323",
+      "date": "2026-11-03",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Knocknacarra B",
+      "ourScore": 1,
+      "theirScore": 3,
+      "venue": "Tuam Astro",
+      "competition": "GFA U21 Division 1"
     }
   ]
 }

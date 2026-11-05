@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-04T14:27:37.044Z",
+  "fetchedAt": "2026-11-05T14:35:10.850Z",
   "fixtures": [
-    {
-      "fid": "6964451",
-      "teamId": "234323",
-      "date": "2026-11-03",
-      "time": "20:15",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Knocknacarra B",
-      "venue": "Tuam Astro",
-      "competition": "GFA U21 Division 1",
-      "comment": "Note Venue"
-    },
     {
       "fid": "6946090",
       "teamId": "235461",
@@ -183,6 +171,30 @@
       "comment": "Home KO SUN 10AM"
     },
     {
+      "fid": "6958966",
+      "teamId": "238174",
+      "date": "2026-11-15",
+      "time": "10:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Renmore",
+      "venue": "Craughwell",
+      "competition": "GFA Girls U12 Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6955992",
+      "teamId": "238128",
+      "date": "2026-11-15",
+      "time": "12:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "venue": "Colemanstown",
+      "competition": "GFA Girls U18 Championship",
+      "comment": ""
+    },
+    {
       "fid": "6952916",
       "teamId": "300398",
       "date": "2026-11-15",
@@ -192,18 +204,6 @@
       "opponent": "East Galway Utd",
       "venue": "Kiltormer",
       "competition": "GFA Boys U17 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6955992",
-      "teamId": "238128",
-      "date": "2026-11-15",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Girls U18 Championship",
       "comment": ""
     },
     {

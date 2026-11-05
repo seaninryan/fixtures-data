@@ -1,5 +1,54 @@
 [
   {
+    "checkedAt": "2026-11-05T14:35:10.850Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6955992",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955992",
+          "teamId": "238128",
+          "date": "2026-11-15",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-15",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-11-15",
+          "time": "12:00"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "6958966",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958966",
+          "teamId": "238174",
+          "date": "2026-11-15",
+          "time": "10:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-04T14:27:37.044Z",
     "changes": [
       {
