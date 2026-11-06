@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-05T14:35:10.850Z",
+  "fetchedAt": "2026-11-06T14:12:48.831Z",
   "fixtures": [
     {
       "fid": "fai:52871808",
@@ -62,5 +62,6 @@
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
       "comment": ""
     }
-  ]
+  ],
+  "awaiting": []
 }
