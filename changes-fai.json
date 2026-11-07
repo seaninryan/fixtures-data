@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-11-07T12:55:32.941Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "fai:52871817",
+        "teamId": "fai:87946",
+        "fixture": {
+          "fid": "fai:52871817",
+          "teamId": "fai:87946",
+          "date": "2027-01-10",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "CUFC Reserves",
+          "opponent": "Tuam Celtic - Reserves",
+          "venue": "Craughwell",
+          "competition": "Western Hygiene Supplies Mens Reserve League",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-04T14:27:37.044Z",
     "changes": [
       {

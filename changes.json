@@ -1,5 +1,54 @@
 [
   {
+    "checkedAt": "2026-11-07T12:55:32.941Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6958966",
+        "teamId": "238174",
+        "fixture": {
+          "fid": "6958966",
+          "teamId": "238174",
+          "date": "2026-11-15",
+          "time": "12:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Renmore",
+          "venue": "Craughwell",
+          "competition": "GFA Girls U12 Division 1",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-15",
+          "time": "10:00"
+        },
+        "to": {
+          "date": "2026-11-15",
+          "time": "12:00"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "7037776",
+        "teamId": "300398",
+        "fixture": {
+          "fid": "7037776",
+          "teamId": "300398",
+          "date": "2027-01-31",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "MacDara",
+          "venue": "Carnmore Astro",
+          "competition": "GFA Boys U17 Division 1 Cup",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-05T14:35:10.850Z",
     "changes": [
       {

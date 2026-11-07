@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-06T14:12:48.831Z",
+  "fetchedAt": "2026-11-07T12:55:32.941Z",
   "fixtures": [
-    {
-      "fid": "6946090",
-      "teamId": "235461",
-      "date": "2026-11-07",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village Astro",
-      "competition": "GFA Boys U12 Premier 2",
-      "comment": ""
-    },
     {
       "fid": "6948811",
       "teamId": "380288",
@@ -24,18 +12,6 @@
       "opponent": "Corofin Utd B",
       "venue": "Corofin",
       "competition": "GFA Boys U12 Division 3",
-      "comment": ""
-    },
-    {
-      "fid": "6951034",
-      "teamId": "235380",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Tuam Celtic",
-      "venue": "Tuam",
-      "competition": "GFA Boys U14 Championship 1",
       "comment": ""
     },
     {
@@ -171,18 +147,6 @@
       "comment": "Home KO SUN 10AM"
     },
     {
-      "fid": "6958966",
-      "teamId": "238174",
-      "date": "2026-11-15",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Renmore",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U12 Division 1",
-      "comment": ""
-    },
-    {
       "fid": "6955992",
       "teamId": "238128",
       "date": "2026-11-15",
@@ -192,6 +156,18 @@
       "opponent": "Colemanstown Utd",
       "venue": "Colemanstown",
       "competition": "GFA Girls U18 Championship",
+      "comment": ""
+    },
+    {
+      "fid": "6958966",
+      "teamId": "238174",
+      "date": "2026-11-15",
+      "time": "12:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Renmore",
+      "venue": "Craughwell",
+      "competition": "GFA Girls U12 Division 1",
       "comment": ""
     },
     {
@@ -924,6 +900,18 @@
       "opponent": "Salthill Devon B",
       "venue": "NFP Park, Drom",
       "competition": "GFA Girls U15 Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "7037776",
+      "teamId": "300398",
+      "date": "2027-01-31",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "MacDara",
+      "venue": "Carnmore Astro",
+      "competition": "GFA Boys U17 Division 1 Cup",
       "comment": ""
     },
     {
