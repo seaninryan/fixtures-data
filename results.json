@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T13:18:22.465Z",
+  "updatedAt": "2026-11-08T20:40:33.267Z",
   "results": [
     {
       "fid": "6951014",
@@ -927,6 +927,18 @@
       "competition": "GFA Boys U14 Division 4"
     },
     {
+      "fid": "6946496",
+      "teamId": "379931",
+      "date": "2026-11-08",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Corrib Rangers",
+      "ourScore": 3,
+      "theirScore": 1,
+      "venue": "Westside",
+      "competition": "GFA Women's Championship"
+    },
+    {
       "fid": "6952191",
       "teamId": "235325",
       "date": "2026-11-08",
@@ -937,6 +949,42 @@
       "theirScore": 3,
       "venue": "Cregmore",
       "competition": "GFA U16 Boys Division 1"
+    },
+    {
+      "fid": "6957612",
+      "teamId": "235299",
+      "date": "2026-11-08",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "East Galway Utd",
+      "ourScore": 3,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1"
+    },
+    {
+      "fid": "6957826",
+      "teamId": "238155",
+      "date": "2026-11-08",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Salthill Devon C",
+      "ourScore": 6,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U14 Division 2"
+    },
+    {
+      "fid": "7027164",
+      "teamId": "238188",
+      "date": "2026-11-08",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Maree/Oranmore C",
+      "ourScore": 4,
+      "theirScore": 2,
+      "venue": "Oranmore",
+      "competition": "GFA Girls U12 Division 4..."
     }
   ]
 }

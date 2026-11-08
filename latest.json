@@ -1,55 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-08T13:18:22.465Z",
+  "fetchedAt": "2026-11-08T20:40:33.267Z",
   "fixtures": [
-    {
-      "fid": "7027164",
-      "teamId": "238188",
-      "date": "2026-11-08",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Maree/Oranmore C",
-      "venue": "Oranmore",
-      "competition": "GFA Girls U12 Division 4...",
-      "comment": ""
-    },
-    {
-      "fid": "6957826",
-      "teamId": "238155",
-      "date": "2026-11-08",
-      "time": "11:30",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Salthill Devon C",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U14 Division 2",
-      "comment": ""
-    },
-    {
-      "fid": "6946496",
-      "teamId": "379931",
-      "date": "2026-11-08",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Corrib Rangers",
-      "venue": "Westside",
-      "competition": "GFA Women's Championship",
-      "comment": ""
-    },
-    {
-      "fid": "6957612",
-      "teamId": "235299",
-      "date": "2026-11-08",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "East Galway Utd",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U18 Division 1",
-      "comment": ""
-    },
     {
       "fid": "6950515",
       "teamId": "235435",
