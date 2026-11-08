@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T12:15:24.573Z",
+  "updatedAt": "2026-11-08T13:18:22.465Z",
   "results": [
     {
       "fid": "6951014",
@@ -925,6 +925,18 @@
       "theirScore": 3,
       "venue": "Craughwell",
       "competition": "GFA Boys U14 Division 4"
+    },
+    {
+      "fid": "6952191",
+      "teamId": "235325",
+      "date": "2026-11-08",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Cregmore/Claregalway B",
+      "ourScore": 4,
+      "theirScore": 3,
+      "venue": "Cregmore",
+      "competition": "GFA U16 Boys Division 1"
     }
   ]
 }

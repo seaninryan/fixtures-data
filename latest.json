@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-08T12:15:24.573Z",
+  "fetchedAt": "2026-11-08T13:18:22.465Z",
   "fixtures": [
     {
       "fid": "7027164",
@@ -12,18 +12,6 @@
       "opponent": "Maree/Oranmore C",
       "venue": "Oranmore",
       "competition": "GFA Girls U12 Division 4...",
-      "comment": ""
-    },
-    {
-      "fid": "6952191",
-      "teamId": "235325",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Cregmore/Claregalway B",
-      "venue": "Cregmore",
-      "competition": "GFA U16 Boys Division 1",
       "comment": ""
     },
     {
