@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T12:55:32.941Z",
+  "updatedAt": "2026-11-08T12:15:24.573Z",
   "results": [
     {
       "fid": "6951014",
@@ -891,6 +891,18 @@
       "competition": "GFA Boys U12 Premier 2"
     },
     {
+      "fid": "6948811",
+      "teamId": "380288",
+      "date": "2026-11-07",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Corofin Utd B",
+      "ourScore": 1,
+      "theirScore": 6,
+      "venue": "Corofin",
+      "competition": "GFA Boys U12 Division 3"
+    },
+    {
       "fid": "6951034",
       "teamId": "235380",
       "date": "2026-11-07",
@@ -901,6 +913,18 @@
       "theirScore": 3,
       "venue": "Tuam",
       "competition": "GFA Boys U14 Championship 1"
+    },
+    {
+      "fid": "6951321",
+      "teamId": "254061",
+      "date": "2026-11-07",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Knocknacarra D",
+      "ourScore": 2,
+      "theirScore": 3,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U14 Division 4"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T12:55:32.941Z",
+  "updatedAt": "2026-11-08T12:15:24.573Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -105,6 +105,18 @@
       "isHome": true,
       "ourTeam": "CUFC Reserves",
       "opponent": "Merlin Woods Reserve 2425",
+      "ourScore": 6,
+      "theirScore": 1,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Mens Reserve League"
+    },
+    {
+      "fid": "fai:52871802",
+      "teamId": "fai:87946",
+      "date": "2026-11-01",
+      "isHome": false,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "Salthill Devon FC Junior Reserve 26/27",
       "ourScore": 6,
       "theirScore": 1,
       "venue": "",

@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-07T12:55:32.941Z",
+  "fetchedAt": "2026-11-08T12:15:24.573Z",
   "fixtures": [
-    {
-      "fid": "6948811",
-      "teamId": "380288",
-      "date": "2026-11-07",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Corofin Utd B",
-      "venue": "Corofin",
-      "competition": "GFA Boys U12 Division 3",
-      "comment": ""
-    },
-    {
-      "fid": "6951321",
-      "teamId": "254061",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Knocknacarra D",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U14 Division 4",
-      "comment": ""
-    },
     {
       "fid": "7027164",
       "teamId": "238188",
