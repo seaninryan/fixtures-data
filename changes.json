@@ -1,5 +1,54 @@
 [
   {
+    "checkedAt": "2026-11-09T16:10:37.550Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6946485",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946485",
+          "teamId": "379931",
+          "date": "2026-12-20",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2027-01-01",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-12-20",
+          "time": "14:00"
+        }
+      },
+      {
+        "type": "added",
+        "fid": "6946505",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946505",
+          "teamId": "379931",
+          "date": "2026-12-06",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Ballinasloe Town",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-07T12:55:32.941Z",
     "changes": [
       {

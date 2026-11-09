@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-08T20:40:33.267Z",
+  "fetchedAt": "2026-11-09T16:10:37.550Z",
   "fixtures": [
     {
       "fid": "6950515",
@@ -447,6 +447,18 @@
       "comment": ""
     },
     {
+      "fid": "6946505",
+      "teamId": "379931",
+      "date": "2026-12-06",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Ballinasloe Town",
+      "venue": "Craughwell",
+      "competition": "GFA Women's Championship",
+      "comment": ""
+    },
+    {
       "fid": "6957634",
       "teamId": "235299",
       "date": "2026-12-06",
@@ -615,6 +627,18 @@
       "comment": ""
     },
     {
+      "fid": "6946485",
+      "teamId": "379931",
+      "date": "2026-12-20",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "venue": "New Village",
+      "competition": "GFA Women's Championship",
+      "comment": ""
+    },
+    {
       "fid": "6957619",
       "teamId": "235299",
       "date": "2026-12-20",
@@ -624,18 +648,6 @@
       "opponent": "Renmore",
       "venue": "Renmore",
       "competition": "GFA Boys U18 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6946485",
-      "teamId": "379931",
-      "date": "2027-01-01",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village",
-      "competition": "GFA Women's Championship",
       "comment": ""
     },
     {
