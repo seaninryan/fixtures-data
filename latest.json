@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-09T16:10:37.550Z",
+  "fetchedAt": "2026-11-10T14:49:13.071Z",
   "fixtures": [
     {
       "fid": "6950515",
@@ -121,18 +121,6 @@
       "venue": "TBC",
       "competition": "Womens Connacht Cup",
       "comment": "Prelim Rd"
-    },
-    {
-      "fid": "6946092",
-      "teamId": "235461",
-      "date": "2026-11-21",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colga",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U12 Premier 2",
-      "comment": ""
     },
     {
       "fid": "6948813",
