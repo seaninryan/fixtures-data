@@ -1,5 +1,64 @@
 [
   {
+    "checkedAt": "2026-11-11T14:14:09.459Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6951036",
+        "teamId": "235380",
+        "fixture": {
+          "fid": "6951036",
+          "teamId": "235380",
+          "date": "2026-11-21",
+          "time": "12:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Boys U14 Championship 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "cancelled",
+        "fid": "6952195",
+        "teamId": "235325",
+        "fixture": {
+          "fid": "6952195",
+          "teamId": "235325",
+          "date": "2026-11-22",
+          "time": "11:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Loughrea",
+          "venue": "Craughwell",
+          "competition": "GFA U16 Boys Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6956004",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6956004",
+          "teamId": "238128",
+          "date": "2027-01-17",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "West Utd",
+          "venue": "South Park",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-10T14:49:13.071Z",
     "changes": [
       {
