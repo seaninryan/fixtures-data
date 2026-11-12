@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-11T14:14:09.459Z",
+  "fetchedAt": "2026-11-12T15:07:34.246Z",
   "fixtures": [
     {
       "fid": "6950515",
@@ -138,36 +138,24 @@
       "fid": "6951326",
       "teamId": "254061",
       "date": "2026-11-21",
-      "time": "12:00",
+      "time": "10:00",
       "isHome": false,
       "ourTeam": "Craughwell United B",
       "opponent": "Tuam Celtic C",
-      "venue": "Tuam",
+      "venue": "Tuam Astro",
       "competition": "GFA Boys U14 Division 4",
-      "comment": ""
+      "comment": "KO moved from 12pm as agreed (11/11)"
     },
     {
-      "fid": "6991043",
-      "teamId": "238188",
-      "date": "2026-11-22",
-      "time": "00:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Bearna Na Forbacha",
-      "venue": "TBC",
-      "competition": "GFA Girls U12 Div 3 & 4 Cup",
-      "comment": ""
-    },
-    {
-      "fid": "7031171",
-      "teamId": "238155",
-      "date": "2026-11-22",
-      "time": "00:00",
-      "isHome": true,
+      "fid": "6951036",
+      "teamId": "235380",
+      "date": "2026-11-21",
+      "time": "12:00",
+      "isHome": false,
       "ourTeam": "Craughwell United",
-      "opponent": "Athenry B",
-      "venue": "TBC",
-      "competition": "GFA Girls U14 Div 2 Cup",
+      "opponent": "Oughterard",
+      "venue": "New Village",
+      "competition": "GFA Boys U14 Championship 1",
       "comment": ""
     },
     {
@@ -183,15 +171,27 @@
       "comment": ""
     },
     {
-      "fid": "7027168",
+      "fid": "6991043",
       "teamId": "238188",
       "date": "2026-11-22",
       "time": "10:00",
       "isHome": true,
       "ourTeam": "Craughwell United B",
-      "opponent": "Tuam B",
+      "opponent": "Bearna Na Forbacha",
       "venue": "Craughwell",
-      "competition": "GFA Girls U12 Division 4...",
+      "competition": "GFA Girls U12 Div 3 & 4 Cup",
+      "comment": ""
+    },
+    {
+      "fid": "7031171",
+      "teamId": "238155",
+      "date": "2026-11-22",
+      "time": "12:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Athenry B",
+      "venue": "Craughwell",
+      "competition": "GFA Girls U14 Div 2 Cup",
       "comment": ""
     },
     {
