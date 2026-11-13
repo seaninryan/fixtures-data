@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-11-13T08:37:06.047Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "fai:56104529",
+        "teamId": "fai:61270",
+        "fixture": {
+          "fid": "fai:56104529",
+          "teamId": "fai:61270",
+          "date": "2026-11-14",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United Juniors",
+          "opponent": "Mervue United FC Jun A",
+          "venue": "Craughwell",
+          "competition": "FAI Junior Cup 2026/27 - Galway",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-09T16:10:37.550Z",
     "changes": [
       {

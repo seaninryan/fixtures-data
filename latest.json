@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-12T15:07:34.246Z",
+  "fetchedAt": "2026-11-13T08:37:06.047Z",
   "fixtures": [
     {
       "fid": "6950515",
@@ -61,18 +61,6 @@
       "venue": "Cappagh Park",
       "competition": "GFA Girls U15 Division 1",
       "comment": "Home KO SUN 10AM"
-    },
-    {
-      "fid": "6955992",
-      "teamId": "238128",
-      "date": "2026-11-15",
-      "time": "12:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Girls U18 Championship",
-      "comment": ""
     },
     {
       "fid": "6958966",
