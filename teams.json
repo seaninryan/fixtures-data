@@ -89,5 +89,9 @@
       "label": null,
       "color": "#a3c93f"
     }
+  },
+  "opponents": {
+    "Moyne Villa Reserves": "Moyne Villa",
+    "Mervue United FC Jun A": "Mervue United"
   }
 }
