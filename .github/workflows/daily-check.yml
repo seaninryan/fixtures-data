@@ -34,7 +34,14 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
+      # ref: the branch, not the default github.sha. A run queued behind the concurrency
+      # group keeps the SHA from when it was DISPATCHED, so two quick "Sync now" presses
+      # had the second run check out the commit before the first run's snapshot, rebuild
+      # on it, and fail its push as non-fast-forward (2026-11-13). The branch name
+      # resolves when the job starts, which is after the previous run has pushed.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       # The code. Public, so no token needed. scripts/check.mjs lives THERE and this
       # workflow lives HERE - if its env contract changes, this file changes with it.
