@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-11-14T13:27:04.443Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6955992",
+        "teamId": "238128",
+        "fixture": {
+          "fid": "6955992",
+          "teamId": "238128",
+          "date": "2026-11-17",
+          "time": "19:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Colemanstown Utd",
+          "venue": "Colemanstown",
+          "competition": "GFA Girls U18 Championship",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-13T08:37:06.047Z",
     "changes": [
       {
