@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T13:27:04.443Z",
+  "updatedAt": "2026-11-15T13:53:08.638Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -133,6 +133,18 @@
       "theirScore": 4,
       "venue": "",
       "competition": "Connacht Cup 2026/27"
+    },
+    {
+      "fid": "fai:56104529",
+      "teamId": "fai:61270",
+      "date": "2026-11-14",
+      "isHome": true,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Mervue United FC Jun A",
+      "ourScore": 1,
+      "theirScore": 2,
+      "venue": "",
+      "competition": "FAI Junior Cup 2026/27 - Galway"
     }
   ]
 }

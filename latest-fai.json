@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-14T13:27:04.443Z",
+  "fetchedAt": "2026-11-15T13:53:08.638Z",
   "fixtures": [
-    {
-      "fid": "fai:52871808",
-      "teamId": "fai:87946",
-      "date": "2026-11-15",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "CUFC Reserves",
-      "opponent": "Moyne Villa Reserves",
-      "venue": "Kiltullagh,",
-      "competition": "Western Hygiene Supplies Mens Reserve League",
-      "comment": ""
-    },
     {
       "fid": "fai:57475667",
       "teamId": "fai:81046",
@@ -77,15 +65,15 @@
   ],
   "awaiting": [
     {
-      "fid": "fai:56104529",
-      "teamId": "fai:61270",
-      "date": "2026-11-14",
+      "fid": "fai:52871808",
+      "teamId": "fai:87946",
+      "date": "2026-11-15",
       "time": "14:00",
       "isHome": true,
-      "ourTeam": "Craughwell United Juniors",
-      "opponent": "Mervue United FC Jun A",
-      "venue": "Craughwell",
-      "competition": "FAI Junior Cup 2026/27 - Galway",
+      "ourTeam": "CUFC Reserves",
+      "opponent": "Moyne Villa Reserves",
+      "venue": "Kiltullagh,",
+      "competition": "Western Hygiene Supplies Mens Reserve League",
       "comment": ""
     }
   ]

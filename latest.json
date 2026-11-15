@@ -1,43 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-14T13:27:04.443Z",
+  "fetchedAt": "2026-11-15T13:53:08.638Z",
   "fixtures": [
-    {
-      "fid": "6950515",
-      "teamId": "235435",
-      "date": "2026-11-14",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Cregmore/Claregalway",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U13 Championship 1",
-      "comment": ""
-    },
-    {
-      "fid": "6972319",
-      "teamId": "380133",
-      "date": "2026-11-14",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Tuam Celtic B",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U15 Division 4",
-      "comment": ""
-    },
-    {
-      "fid": "7035325",
-      "teamId": "234323",
-      "date": "2026-11-14",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Mervue Utd",
-      "venue": "Craughwell",
-      "competition": "FAI Junior Cup",
-      "comment": ""
-    },
     {
       "fid": "6958003",
       "teamId": "284049",
@@ -49,18 +13,6 @@
       "venue": "Loughrea",
       "competition": "GFA Girls U13 Division 1",
       "comment": "Home KO SUN 9:30AM"
-    },
-    {
-      "fid": "6957200",
-      "teamId": "283766",
-      "date": "2026-11-15",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Knocknacarra B",
-      "venue": "Cappagh Park",
-      "competition": "GFA Girls U15 Division 1",
-      "comment": "Home KO SUN 10AM"
     },
     {
       "fid": "6958966",
@@ -159,18 +111,6 @@
       "comment": ""
     },
     {
-      "fid": "6958970",
-      "teamId": "238174",
-      "date": "2026-11-22",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village",
-      "competition": "GFA Girls U12 Division 1",
-      "comment": ""
-    },
-    {
       "fid": "6991043",
       "teamId": "238188",
       "date": "2026-11-22",
@@ -180,6 +120,18 @@
       "opponent": "Bearna Na Forbacha",
       "venue": "Craughwell",
       "competition": "GFA Girls U12 Div 3 & 4 Cup",
+      "comment": ""
+    },
+    {
+      "fid": "6958970",
+      "teamId": "238174",
+      "date": "2026-11-22",
+      "time": "12:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "venue": "New Village",
+      "competition": "GFA Girls U12 Division 1",
       "comment": ""
     },
     {
