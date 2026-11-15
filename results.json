@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T13:53:08.638Z",
+  "updatedAt": "2026-11-15T18:49:19.965Z",
   "results": [
     {
       "fid": "6951014",
@@ -1023,6 +1023,18 @@
       "competition": "FAI Junior Cup"
     },
     {
+      "fid": "6952916",
+      "teamId": "300398",
+      "date": "2026-11-15",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "East Galway Utd",
+      "ourScore": 3,
+      "theirScore": 2,
+      "venue": "Kiltormer",
+      "competition": "GFA Boys U17 Division 1"
+    },
+    {
       "fid": "6957200",
       "teamId": "283766",
       "date": "2026-11-15",
@@ -1033,6 +1045,30 @@
       "theirScore": 2,
       "venue": "Cappagh Park",
       "competition": "GFA Girls U15 Division 1"
+    },
+    {
+      "fid": "6958003",
+      "teamId": "284049",
+      "date": "2026-11-15",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Loughrea",
+      "ourScore": 0,
+      "theirScore": 0,
+      "venue": "Loughrea",
+      "competition": "GFA Girls U13 Division 1"
+    },
+    {
+      "fid": "6958966",
+      "teamId": "238174",
+      "date": "2026-11-15",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Renmore",
+      "ourScore": 2,
+      "theirScore": 6,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U12 Division 1"
     }
   ]
 }

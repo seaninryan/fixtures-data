@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-15T13:53:08.638Z",
+  "fetchedAt": "2026-11-15T18:49:19.965Z",
   "fixtures": [
     {
       "fid": "fai:57475667",
@@ -63,18 +63,5 @@
       "comment": ""
     }
   ],
-  "awaiting": [
-    {
-      "fid": "fai:52871808",
-      "teamId": "fai:87946",
-      "date": "2026-11-15",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "CUFC Reserves",
-      "opponent": "Moyne Villa Reserves",
-      "venue": "Kiltullagh,",
-      "competition": "Western Hygiene Supplies Mens Reserve League",
-      "comment": ""
-    }
-  ]
+  "awaiting": []
 }

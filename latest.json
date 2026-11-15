@@ -1,43 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-15T13:53:08.638Z",
+  "fetchedAt": "2026-11-15T18:49:19.965Z",
   "fixtures": [
-    {
-      "fid": "6958003",
-      "teamId": "284049",
-      "date": "2026-11-15",
-      "time": "09:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Loughrea",
-      "venue": "Loughrea",
-      "competition": "GFA Girls U13 Division 1",
-      "comment": "Home KO SUN 9:30AM"
-    },
-    {
-      "fid": "6958966",
-      "teamId": "238174",
-      "date": "2026-11-15",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Renmore",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U12 Division 1",
-      "comment": ""
-    },
-    {
-      "fid": "6952916",
-      "teamId": "300398",
-      "date": "2026-11-15",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "East Galway Utd",
-      "venue": "Kiltormer",
-      "competition": "GFA Boys U17 Division 1",
-      "comment": ""
-    },
     {
       "fid": "6955992",
       "teamId": "238128",

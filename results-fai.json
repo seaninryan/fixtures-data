@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T13:53:08.638Z",
+  "updatedAt": "2026-11-15T18:49:19.965Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -145,6 +145,18 @@
       "theirScore": 2,
       "venue": "",
       "competition": "FAI Junior Cup 2026/27 - Galway"
+    },
+    {
+      "fid": "fai:52871808",
+      "teamId": "fai:87946",
+      "date": "2026-11-15",
+      "isHome": true,
+      "ourTeam": "CUFC Reserves",
+      "opponent": "Moyne Villa Reserves",
+      "ourScore": 3,
+      "theirScore": 2,
+      "venue": "",
+      "competition": "Western Hygiene Supplies Mens Reserve League"
     }
   ]
 }
