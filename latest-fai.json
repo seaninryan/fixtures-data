@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-15T18:49:19.965Z",
+  "fetchedAt": "2026-11-16T15:38:13.499Z",
   "fixtures": [
     {
       "fid": "fai:57475667",
@@ -17,8 +17,8 @@
     {
       "fid": "fai:52005195",
       "teamId": "fai:61270",
-      "date": "2026-11-28",
-      "time": "14:00",
+      "date": "2026-11-26",
+      "time": "20:15",
       "isHome": false,
       "ourTeam": "Craughwell United Juniors",
       "opponent": "Colga FC Mens A",

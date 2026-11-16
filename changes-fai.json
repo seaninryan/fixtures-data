@@ -1,5 +1,36 @@
 [
   {
+    "checkedAt": "2026-11-16T15:38:13.499Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "fai:52005195",
+        "teamId": "fai:61270",
+        "fixture": {
+          "fid": "fai:52005195",
+          "teamId": "fai:61270",
+          "date": "2026-11-26",
+          "time": "20:15",
+          "isHome": false,
+          "ourTeam": "Craughwell United Juniors",
+          "opponent": "Colga FC Mens A",
+          "venue": "",
+          "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-28",
+          "time": "14:00"
+        },
+        "to": {
+          "date": "2026-11-26",
+          "time": "20:15"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-13T08:37:06.047Z",
     "changes": [
       {
