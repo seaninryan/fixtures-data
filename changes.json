@@ -1,5 +1,36 @@
 [
   {
+    "checkedAt": "2026-11-17T15:55:45.445Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6951036",
+        "teamId": "235380",
+        "fixture": {
+          "fid": "6951036",
+          "teamId": "235380",
+          "date": "2026-11-21",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "New Village",
+          "competition": "GFA Boys U14 Championship 1",
+          "comment": ""
+        },
+        "comment": "",
+        "from": {
+          "date": "2026-11-21",
+          "time": "12:00"
+        },
+        "to": {
+          "date": "2026-11-21",
+          "time": "14:00"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-15T13:53:08.638Z",
     "changes": [
       {
