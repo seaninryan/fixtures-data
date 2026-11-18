@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T15:55:45.445Z",
+  "updatedAt": "2026-11-18T15:35:18.908Z",
   "results": [
     {
       "fid": "6951014",
@@ -1069,6 +1069,18 @@
       "theirScore": 6,
       "venue": "Craughwell",
       "competition": "GFA Girls U12 Division 1"
+    },
+    {
+      "fid": "6955992",
+      "teamId": "238128",
+      "date": "2026-11-17",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Colemanstown Utd",
+      "ourScore": 1,
+      "theirScore": 6,
+      "venue": "Colemanstown",
+      "competition": "GFA Girls U18 Championship"
     }
   ]
 }

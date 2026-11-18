@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-17T15:55:45.445Z",
+  "fetchedAt": "2026-11-18T15:35:18.908Z",
   "fixtures": [
-    {
-      "fid": "6955992",
-      "teamId": "238128",
-      "date": "2026-11-17",
-      "time": "19:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Colemanstown Utd",
-      "venue": "Colemanstown",
-      "competition": "GFA Girls U18 Championship",
-      "comment": ""
-    },
     {
       "fid": "6964458",
       "teamId": "234323",
@@ -46,7 +34,7 @@
       "isHome": false,
       "ourTeam": "Craughwell United B",
       "opponent": "Renmore B",
-      "venue": "Renmore",
+      "venue": "Oranmore All Weather",
       "competition": "GFA Boys U12 Division 3",
       "comment": ""
     },
@@ -135,18 +123,6 @@
       "comment": ""
     },
     {
-      "fid": "6950520",
-      "teamId": "235435",
-      "date": "2026-11-28",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Tuam Celtic",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U13 Championship 1",
-      "comment": ""
-    },
-    {
       "fid": "6951756",
       "teamId": "254053",
       "date": "2026-11-28",
@@ -171,15 +147,15 @@
       "comment": ""
     },
     {
-      "fid": "6958011",
-      "teamId": "284049",
-      "date": "2026-11-29",
-      "time": "10:00",
+      "fid": "6950520",
+      "teamId": "235435",
+      "date": "2026-11-28",
+      "time": "14:00",
       "isHome": true,
       "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
+      "opponent": "Tuam Celtic",
       "venue": "Craughwell",
-      "competition": "GFA Girls U13 Division 1",
+      "competition": "GFA Boys U13 Championship 1",
       "comment": ""
     },
     {
