@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T15:35:18.908Z",
+  "updatedAt": "2026-11-19T15:40:46.679Z",
   "results": [
     {
       "fid": "6951014",
@@ -1081,6 +1081,18 @@
       "theirScore": 6,
       "venue": "Colemanstown",
       "competition": "GFA Girls U18 Championship"
+    },
+    {
+      "fid": "6964458",
+      "teamId": "234323",
+      "date": "2026-11-18",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Salthill Devon B",
+      "ourScore": 1,
+      "theirScore": 3,
+      "venue": "NFP Park, Drom",
+      "competition": "GFA U21 Division 1"
     }
   ]
 }

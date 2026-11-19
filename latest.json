@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-18T15:35:18.908Z",
+  "fetchedAt": "2026-11-19T15:40:46.679Z",
   "fixtures": [
-    {
-      "fid": "6964458",
-      "teamId": "234323",
-      "date": "2026-11-18",
-      "time": "20:30",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Salthill Devon B",
-      "venue": "NFP Park, Drom",
-      "competition": "GFA U21 Division 1",
-      "comment": "Home KO WED 8:30PM"
-    },
     {
       "fid": "7039368",
       "teamId": "379931",
@@ -58,7 +46,7 @@
       "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "Oughterard",
-      "venue": "New Village",
+      "venue": "New Village Astro",
       "competition": "GFA Boys U14 Championship 1",
       "comment": ""
     },
@@ -123,6 +111,18 @@
       "comment": ""
     },
     {
+      "fid": "6950520",
+      "teamId": "235435",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Tuam Celtic",
+      "venue": "Craughwell",
+      "competition": "GFA Boys U13 Championship 1",
+      "comment": ""
+    },
+    {
       "fid": "6951756",
       "teamId": "254053",
       "date": "2026-11-28",
@@ -144,18 +144,6 @@
       "opponent": "Kiltullagh B",
       "venue": "Kiltullagh",
       "competition": "GFA Boys U15 Division 4",
-      "comment": ""
-    },
-    {
-      "fid": "6950520",
-      "teamId": "235435",
-      "date": "2026-11-28",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Tuam Celtic",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U13 Championship 1",
       "comment": ""
     },
     {
