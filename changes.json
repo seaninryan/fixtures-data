@@ -1,5 +1,54 @@
 [
   {
+    "checkedAt": "2026-11-20T15:22:57.811Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6946502",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946502",
+          "teamId": "379931",
+          "date": "2026-11-22",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Kilshanvey Utd",
+          "venue": "Kilconly",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "moved",
+        "fid": "7039368",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "7039368",
+          "teamId": "379931",
+          "date": "2026-11-21",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Yeats Utd",
+          "venue": "TBC",
+          "competition": "Womens Connacht Cup",
+          "comment": "Prelim Rd Mc Sharry Pk Sligo"
+        },
+        "comment": "Prelim Rd Mc Sharry Pk Sligo",
+        "from": {
+          "date": "2026-11-21",
+          "time": "00:00"
+        },
+        "to": {
+          "date": "2026-11-21",
+          "time": "14:00"
+        }
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-19T15:40:46.679Z",
     "changes": [
       {

@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-19T15:40:46.679Z",
+  "fetchedAt": "2026-11-20T15:22:57.811Z",
   "fixtures": [
-    {
-      "fid": "7039368",
-      "teamId": "379931",
-      "date": "2026-11-21",
-      "time": "00:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Yeats Utd",
-      "venue": "TBC",
-      "competition": "Womens Connacht Cup",
-      "comment": "Prelim Rd"
-    },
     {
       "fid": "6948813",
       "teamId": "380288",
@@ -51,6 +39,18 @@
       "comment": ""
     },
     {
+      "fid": "7039368",
+      "teamId": "379931",
+      "date": "2026-11-21",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Yeats Utd",
+      "venue": "TBC",
+      "competition": "Womens Connacht Cup",
+      "comment": "Prelim Rd Mc Sharry Pk Sligo"
+    },
+    {
       "fid": "6991043",
       "teamId": "238188",
       "date": "2026-11-22",
@@ -84,18 +84,6 @@
       "opponent": "Athenry B",
       "venue": "Craughwell",
       "competition": "GFA Girls U14 Div 2 Cup",
-      "comment": ""
-    },
-    {
-      "fid": "6946502",
-      "teamId": "379931",
-      "date": "2026-11-22",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Kilshanvey Utd",
-      "venue": "Kilconly",
-      "competition": "GFA Women's Championship",
       "comment": ""
     },
     {
