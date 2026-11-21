@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T15:22:57.811Z",
+  "updatedAt": "2026-11-21T14:35:53.835Z",
   "results": [
     {
       "fid": "fai:52005161",
@@ -157,6 +157,18 @@
       "theirScore": 2,
       "venue": "",
       "competition": "Western Hygiene Supplies Mens Reserve League"
+    },
+    {
+      "fid": "fai:57475667",
+      "teamId": "fai:81046",
+      "date": "2026-11-21",
+      "isHome": false,
+      "ourTeam": "Craughwell United Ladies",
+      "opponent": "Yeats United WFC",
+      "ourScore": 0,
+      "theirScore": 0,
+      "venue": "",
+      "competition": "Prelim Women's Connacht Cup 26/27"
     }
   ]
 }
