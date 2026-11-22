@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T14:30:06.373Z",
+  "updatedAt": "2026-11-22T19:18:21.756Z",
   "results": [
     {
       "fid": "6951014",
@@ -1131,6 +1131,30 @@
       "competition": "GFA Boys U14 Division 4"
     },
     {
+      "fid": "7039368",
+      "teamId": "379931",
+      "date": "2026-11-21",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Yeats Utd",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "TBC",
+      "competition": "Womens Connacht Cup"
+    },
+    {
+      "fid": "6957616",
+      "teamId": "235299",
+      "date": "2026-11-22",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "St Bernards",
+      "ourScore": 1,
+      "theirScore": 5,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U18 Division 1"
+    },
+    {
       "fid": "6958970",
       "teamId": "238174",
       "date": "2026-11-22",
@@ -1153,6 +1177,18 @@
       "theirScore": 7,
       "venue": "Craughwell",
       "competition": "GFA Girls U12 Div 3 & 4 Cup"
+    },
+    {
+      "fid": "7031171",
+      "teamId": "238155",
+      "date": "2026-11-22",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Athenry B",
+      "ourScore": 1,
+      "theirScore": 2,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U14 Div 2 Cup"
     }
   ]
 }

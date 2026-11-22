@@ -1,43 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-22T14:30:06.373Z",
+  "fetchedAt": "2026-11-22T19:18:21.756Z",
   "fixtures": [
-    {
-      "fid": "7039368",
-      "teamId": "379931",
-      "date": "2026-11-21",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Yeats Utd",
-      "venue": "TBC",
-      "competition": "Womens Connacht Cup",
-      "comment": "Prelim Rd Mc Sharry Pk Sligo"
-    },
-    {
-      "fid": "7031171",
-      "teamId": "238155",
-      "date": "2026-11-22",
-      "time": "12:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "Athenry B",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U14 Div 2 Cup",
-      "comment": ""
-    },
-    {
-      "fid": "6957616",
-      "teamId": "235299",
-      "date": "2026-11-22",
-      "time": "14:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United",
-      "opponent": "St Bernards",
-      "venue": "Craughwell",
-      "competition": "GFA Boys U18 Division 1",
-      "comment": ""
-    },
     {
       "fid": "6950520",
       "teamId": "235435",
