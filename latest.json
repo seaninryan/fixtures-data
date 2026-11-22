@@ -1,43 +1,7 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-21T14:35:53.835Z",
+  "fetchedAt": "2026-11-22T14:30:06.373Z",
   "fixtures": [
-    {
-      "fid": "6948813",
-      "teamId": "380288",
-      "date": "2026-11-21",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Renmore B",
-      "venue": "Oranmore All Weather",
-      "competition": "GFA Boys U12 Division 3",
-      "comment": ""
-    },
-    {
-      "fid": "6951326",
-      "teamId": "254061",
-      "date": "2026-11-21",
-      "time": "10:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Tuam Celtic C",
-      "venue": "Tuam Astro",
-      "competition": "GFA Boys U14 Division 4",
-      "comment": "KO moved from 12pm as agreed (11/11)"
-    },
-    {
-      "fid": "6951036",
-      "teamId": "235380",
-      "date": "2026-11-21",
-      "time": "14:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village Astro",
-      "competition": "GFA Boys U14 Championship 1",
-      "comment": ""
-    },
     {
       "fid": "7039368",
       "teamId": "379931",
@@ -49,30 +13,6 @@
       "venue": "TBC",
       "competition": "Womens Connacht Cup",
       "comment": "Prelim Rd Mc Sharry Pk Sligo"
-    },
-    {
-      "fid": "6991043",
-      "teamId": "238188",
-      "date": "2026-11-22",
-      "time": "10:00",
-      "isHome": true,
-      "ourTeam": "Craughwell United B",
-      "opponent": "Bearna Na Forbacha",
-      "venue": "Craughwell",
-      "competition": "GFA Girls U12 Div 3 & 4 Cup",
-      "comment": ""
-    },
-    {
-      "fid": "6958970",
-      "teamId": "238174",
-      "date": "2026-11-22",
-      "time": "12:00",
-      "isHome": false,
-      "ourTeam": "Craughwell United",
-      "opponent": "Oughterard",
-      "venue": "New Village",
-      "competition": "GFA Girls U12 Division 1",
-      "comment": ""
     },
     {
       "fid": "7031171",

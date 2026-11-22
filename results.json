@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T14:35:53.835Z",
+  "updatedAt": "2026-11-22T14:30:06.373Z",
   "results": [
     {
       "fid": "6951014",
@@ -1093,6 +1093,66 @@
       "theirScore": 3,
       "venue": "NFP Park, Drom",
       "competition": "GFA U21 Division 1"
+    },
+    {
+      "fid": "6948813",
+      "teamId": "380288",
+      "date": "2026-11-21",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Renmore B",
+      "ourScore": 1,
+      "theirScore": 2,
+      "venue": "Oranmore All Weather",
+      "competition": "GFA Boys U12 Division 3"
+    },
+    {
+      "fid": "6951036",
+      "teamId": "235380",
+      "date": "2026-11-21",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "New Village Astro",
+      "competition": "GFA Boys U14 Championship 1"
+    },
+    {
+      "fid": "6951326",
+      "teamId": "254061",
+      "date": "2026-11-21",
+      "isHome": false,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Tuam Celtic C",
+      "ourScore": 5,
+      "theirScore": 1,
+      "venue": "Tuam Astro",
+      "competition": "GFA Boys U14 Division 4"
+    },
+    {
+      "fid": "6958970",
+      "teamId": "238174",
+      "date": "2026-11-22",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "ourScore": 1,
+      "theirScore": 0,
+      "venue": "New Village",
+      "competition": "GFA Girls U12 Division 1"
+    },
+    {
+      "fid": "6991043",
+      "teamId": "238188",
+      "date": "2026-11-22",
+      "isHome": true,
+      "ourTeam": "Craughwell United B",
+      "opponent": "Bearna Na Forbacha",
+      "ourScore": 3,
+      "theirScore": 7,
+      "venue": "Craughwell",
+      "competition": "GFA Girls U12 Div 3 & 4 Cup"
     }
   ]
 }
