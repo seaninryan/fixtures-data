@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-22T19:18:21.756Z",
+  "fetchedAt": "2026-11-23T17:59:22.762Z",
   "fixtures": [
     {
       "fid": "fai:52005195",
@@ -35,6 +35,18 @@
       "ourTeam": "Craughwell United Juniors",
       "opponent": "Athenry FC Men’s Junior A",
       "venue": "Craughwell",
+      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:52005183",
+      "teamId": "fai:61270",
+      "date": "2027-01-09",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Galway Hibernians",
+      "venue": "",
       "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
       "comment": ""
     },
