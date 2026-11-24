@@ -1,5 +1,138 @@
 [
   {
+    "checkedAt": "2026-11-24T17:37:20.588Z",
+    "changes": [
+      {
+        "type": "cancelled",
+        "fid": "6946505",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946505",
+          "teamId": "379931",
+          "date": "2026-12-06",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Ballinasloe Town",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "venue",
+        "fid": "7031236",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "7031236",
+          "teamId": "379931",
+          "date": "2026-12-06",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Ballinasloe Town",
+          "venue": "Ballinasloe",
+          "competition": "GFA Women's Championship & Div 1 Cup",
+          "comment": ""
+        },
+        "comment": "",
+        "from": "TBC",
+        "to": "Ballinasloe"
+      },
+      {
+        "type": "added",
+        "fid": "6946518",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946518",
+          "teamId": "379931",
+          "date": "2027-02-07",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Kiltullagh",
+          "venue": "Kiltullagh",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946524",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946524",
+          "teamId": "379931",
+          "date": "2027-03-07",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Corrib Rangers",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946530",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946530",
+          "teamId": "379931",
+          "date": "2027-03-21",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Kilshanvey Utd",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946533",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946533",
+          "teamId": "379931",
+          "date": "2027-04-04",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Ballinasloe Town",
+          "venue": "Ballinasloe",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946538",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946538",
+          "teamId": "379931",
+          "date": "2027-04-18",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Bearna Na Forbacha",
+          "venue": "Furbo",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-20T15:22:57.811Z",
     "changes": [
       {

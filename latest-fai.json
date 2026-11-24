@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-23T17:59:22.762Z",
+  "fetchedAt": "2026-11-24T17:37:20.588Z",
   "fixtures": [
     {
       "fid": "fai:52005195",
@@ -60,6 +60,18 @@
       "opponent": "Tuam Celtic - Reserves",
       "venue": "Craughwell",
       "competition": "Western Hygiene Supplies Mens Reserve League",
+      "comment": ""
+    },
+    {
+      "fid": "fai:52005202",
+      "teamId": "fai:61270",
+      "date": "2027-01-30",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United Juniors",
+      "opponent": "Maree/Oranmore FC",
+      "venue": "Craughwell",
+      "competition": "Western Hygiene Supplies Brod Trill Mens Premier League",
       "comment": ""
     }
   ],
