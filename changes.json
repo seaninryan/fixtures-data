@@ -1,5 +1,154 @@
 [
   {
+    "checkedAt": "2026-11-25T17:08:28.500Z",
+    "changes": [
+      {
+        "type": "moved",
+        "fid": "6948836",
+        "teamId": "380288",
+        "fixture": {
+          "fid": "6948836",
+          "teamId": "380288",
+          "date": "2026-12-05",
+          "time": "14:30",
+          "isHome": false,
+          "ourTeam": "Craughwell United B",
+          "opponent": "St Bernards B",
+          "venue": "Abbeyknockmoy",
+          "competition": "GFA Boys U12 Division 3",
+          "comment": "Home KO SAT 3PM"
+        },
+        "comment": "Home KO SAT 3PM",
+        "from": {
+          "date": "2026-12-05",
+          "time": "15:00"
+        },
+        "to": {
+          "date": "2026-12-05",
+          "time": "14:30"
+        }
+      },
+      {
+        "type": "moved",
+        "fid": "6964473",
+        "teamId": "234323",
+        "fixture": {
+          "fid": "6964473",
+          "teamId": "234323",
+          "date": "2027-01-12",
+          "time": "20:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "MacDara",
+          "venue": "Tuam Astro",
+          "competition": "GFA U21 Division 1",
+          "comment": "Moved from 13/1 as agreed (25/11)"
+        },
+        "comment": "Moved from 13/1 as agreed (25/11)",
+        "from": {
+          "date": "2027-01-13",
+          "time": "20:15"
+        },
+        "to": {
+          "date": "2027-01-12",
+          "time": "20:30"
+        }
+      },
+      {
+        "type": "venue",
+        "fid": "6964473",
+        "teamId": "234323",
+        "fixture": {
+          "fid": "6964473",
+          "teamId": "234323",
+          "date": "2027-01-12",
+          "time": "20:30",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "MacDara",
+          "venue": "Tuam Astro",
+          "competition": "GFA U21 Division 1",
+          "comment": "Moved from 13/1 as agreed (25/11)"
+        },
+        "comment": "Moved from 13/1 as agreed (25/11)",
+        "from": "Craughwell",
+        "to": "Tuam Astro"
+      },
+      {
+        "type": "added",
+        "fid": "6946502",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946502",
+          "teamId": "379931",
+          "date": "2026-11-22",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "Kilshanvey Utd",
+          "venue": "Kilconly",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946505",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946505",
+          "teamId": "379931",
+          "date": "2026-12-06",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Ballinasloe Town",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946510",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946510",
+          "teamId": "379931",
+          "date": "2027-01-10",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Bearna Na Forbacha",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      },
+      {
+        "type": "added",
+        "fid": "6946513",
+        "teamId": "379931",
+        "fixture": {
+          "fid": "6946513",
+          "teamId": "379931",
+          "date": "2027-01-24",
+          "time": "14:00",
+          "isHome": true,
+          "ourTeam": "Craughwell United",
+          "opponent": "Oughterard",
+          "venue": "Craughwell",
+          "competition": "GFA Women's Championship",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-24T17:37:20.588Z",
     "changes": [
       {

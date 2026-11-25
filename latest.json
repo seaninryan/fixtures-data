@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-24T17:37:20.588Z",
+  "fetchedAt": "2026-11-25T17:08:28.500Z",
   "fixtures": [
+    {
+      "fid": "6946502",
+      "teamId": "379931",
+      "date": "2026-11-22",
+      "time": "14:00",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Kilshanvey Utd",
+      "venue": "Kilconly",
+      "competition": "GFA Women's Championship",
+      "comment": ""
+    },
     {
       "fid": "6950520",
       "teamId": "235435",
@@ -138,7 +150,7 @@
       "fid": "6948836",
       "teamId": "380288",
       "date": "2026-12-05",
-      "time": "15:00",
+      "time": "14:30",
       "isHome": false,
       "ourTeam": "Craughwell United B",
       "opponent": "St Bernards B",
@@ -180,6 +192,18 @@
       "opponent": "Loughrea",
       "venue": "Loughrea",
       "competition": "GFA U16 Boys Division 1",
+      "comment": ""
+    },
+    {
+      "fid": "6946505",
+      "teamId": "379931",
+      "date": "2026-12-06",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Ballinasloe Town",
+      "venue": "Craughwell",
+      "competition": "GFA Women's Championship",
       "comment": ""
     },
     {
@@ -447,6 +471,18 @@
       "comment": ""
     },
     {
+      "fid": "6946510",
+      "teamId": "379931",
+      "date": "2027-01-10",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Bearna Na Forbacha",
+      "venue": "Craughwell",
+      "competition": "GFA Women's Championship",
+      "comment": ""
+    },
+    {
       "fid": "6957622",
       "teamId": "235299",
       "date": "2027-01-10",
@@ -461,14 +497,14 @@
     {
       "fid": "6964473",
       "teamId": "234323",
-      "date": "2027-01-13",
-      "time": "20:15",
+      "date": "2027-01-12",
+      "time": "20:30",
       "isHome": true,
       "ourTeam": "Craughwell United",
       "opponent": "MacDara",
-      "venue": "Craughwell",
+      "venue": "Tuam Astro",
       "competition": "GFA U21 Division 1",
-      "comment": ""
+      "comment": "Moved from 13/1 as agreed (25/11)"
     },
     {
       "fid": "6950512",
@@ -552,6 +588,18 @@
       "opponent": "Colga B",
       "venue": "Craughwell",
       "competition": "GFA Girls U14 Division 2",
+      "comment": ""
+    },
+    {
+      "fid": "6946513",
+      "teamId": "379931",
+      "date": "2027-01-24",
+      "time": "14:00",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Oughterard",
+      "venue": "Craughwell",
+      "competition": "GFA Women's Championship",
       "comment": ""
     },
     {
