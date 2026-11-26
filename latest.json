@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-25T17:08:28.500Z",
+  "fetchedAt": "2026-11-26T16:49:27.752Z",
   "fixtures": [
     {
       "fid": "6946502",
@@ -186,7 +186,7 @@
       "fid": "6952223",
       "teamId": "235325",
       "date": "2026-12-06",
-      "time": "12:00",
+      "time": "12:30",
       "isHome": false,
       "ourTeam": "Craughwell United",
       "opponent": "Loughrea",
