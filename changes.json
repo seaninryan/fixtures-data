@@ -1,5 +1,28 @@
 [
   {
+    "checkedAt": "2026-11-27T16:35:05.306Z",
+    "changes": [
+      {
+        "type": "added",
+        "fid": "6957629",
+        "teamId": "235299",
+        "fixture": {
+          "fid": "6957629",
+          "teamId": "235299",
+          "date": "2027-01-24",
+          "time": "14:00",
+          "isHome": false,
+          "ourTeam": "Craughwell United",
+          "opponent": "MacDara",
+          "venue": "Carraroe Astro",
+          "competition": "GFA Boys U18 Division 1",
+          "comment": ""
+        },
+        "comment": ""
+      }
+    ]
+  },
+  {
     "checkedAt": "2026-11-26T16:49:27.752Z",
     "changes": [
       {
