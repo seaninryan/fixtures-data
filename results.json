@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T16:35:05.306Z",
+  "updatedAt": "2026-11-28T15:27:20.964Z",
   "results": [
     {
       "fid": "6951014",
@@ -1189,6 +1189,30 @@
       "theirScore": 2,
       "venue": "Craughwell",
       "competition": "GFA Girls U14 Div 2 Cup"
+    },
+    {
+      "fid": "6950520",
+      "teamId": "235435",
+      "date": "2026-11-28",
+      "isHome": true,
+      "ourTeam": "Craughwell United",
+      "opponent": "Tuam Celtic",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Craughwell",
+      "competition": "GFA Boys U13 Championship 1"
+    },
+    {
+      "fid": "6951756",
+      "teamId": "254053",
+      "date": "2026-11-28",
+      "isHome": false,
+      "ourTeam": "Craughwell United",
+      "opponent": "Maree/Oranmore B",
+      "ourScore": 0,
+      "theirScore": 5,
+      "venue": "Oranmore",
+      "competition": "GFA Boys U15 Division 2"
     }
   ]
 }
